@@ -1,0 +1,1001 @@
+id_chamado,cliente,cpf_cnpj,tipo_cliente,estado,canal_contato,tentativas_contato,dias_atraso,valor_total_divida,historico_pagamento,urgencia,texto
+1,Brenda Alves,438.150.926-98,PJ,AL,app,3,1,160.62,regular,Baixa,Solicito a segunda via do boleto referente a 160.62 reais. Aguardo retorno.
+2,Caleb Cunha,38.041.697/0001-11,PF,PB,chat,5,9,20.0,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+3,Lara Abreu,265.917.803-86,PF,MG,chat,3,14,96.54,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+4,Luiz Henrique Ferreira,940.538.716-20,PJ,PI,telefone,4,30,517.09,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+5,Luiz Miguel Oliveira,31.058.279/0001-98,PF,AM,e-mail,1,14,239.1,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+6,Lara Marques,529.816.043-33,PF,PI,chat,3,28,150.3,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+7,Srta. Elisa Martins,643.520.187-08,PJ,MG,whatsapp,4,15,428.07,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+8,Benício Cunha,953.876.401-39,PJ,BA,chat,2,6,340.62,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+9,Vitor Gabriel da Luz,968.215.307-77,PF,AM,chat,2,10,49.71,regular,Baixa,Qual é o meu débito atual?
+10,Emanuel Vieira,619.347.250-99,PF,RO,whatsapp,4,55,20.0,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+11,Srta. Zoe Sá,451.237.809-04,PF,PE,whatsapp,4,11,389.27,bom,Média,Gostaria de negociar o valor de 389.27 reais em atraso. Aguardo retorno.
+12,Thiago Caldeira,483.126.059-24,PJ,PR,e-mail,5,4,174.26,ruim,Baixa,"Solicito a segunda via do boleto referente a 174.26 reais. Por favor, me ajudem."
+13,Daniel Fonseca,430.197.526-80,PF,TO,whatsapp,1,53,123.03,bom,Média,"Gostaria de negociar o valor de 123.03 reais em atraso. Por favor, me ajudem."
+14,Vitor Vargas,297.418.306-96,PF,RR,telefone,1,38,165.67,bom,Média,Preciso de condições melhores para quitar minha dívida.
+15,Murilo Rios,578.019.643-57,PF,RJ,chat,1,99,20.0,regular,Alta,"Minha situação financeira está complicada, estou devendo 20 reais. Por favor, me ajudem."
+16,Heloísa Pastor,301.568.742-53,PF,MT,whatsapp,2,35,298.28,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+17,Théo da Costa,47.391.680/0001-85,PF,SE,telefone,3,17,198.36,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+18,Maria Luísa Correia,19.623.547/0001-71,PF,AL,telefone,1,1,183.19,ruim,Baixa,Solicito a segunda via do boleto referente a 183.19 reais. Aguardo retorno.
+19,Beatriz Araújo,651.798.304-00,PF,CE,chat,2,10,235.51,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+20,Ravi da Cruz,179.054.632-06,PF,CE,chat,4,3,218.36,ruim,Baixa,Qual é o meu débito atual?
+21,Raquel Mendes,36.019.758/0001-19,PF,SE,app,4,15,271.58,bom,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+22,Laura Lima,872.196.053-40,PF,SC,whatsapp,4,10,380.59,bom,Média,Gostaria de negociar o valor de 380.59 reais em atraso. Muito obrigado.
+23,Sr. Benicio Pacheco,782.046.159-49,PJ,RO,whatsapp,4,4,306.12,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+24,Nathan Campos,930.478.215-50,PF,RO,whatsapp,2,10,87.97,regular,Baixa,"Solicito a segunda via do boleto referente a 87.97 reais. Por favor, me ajudem."
+25,Sra. Isabella da Luz,624.380.719-31,PF,AP,telefone,4,5,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+26,Hadassa Montenegro,425.018.967-85,PF,TO,app,4,77,78.81,bom,Média,Gostaria de negociar o valor de 78.81 reais em atraso. Muito obrigado.
+27,Liz Pimenta,80.459.126/0001-68,PF,AM,e-mail,2,9,163.04,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+28,Dra. Daniela da Mata,43.517.286/0001-90,PF,AL,telefone,3,27,310.21,bom,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+29,Otávio da Mota,095.612.743-61,PJ,PI,chat,4,3,243.6,bom,Baixa,Solicito a segunda via do boleto referente a 243.6 reais. Muito obrigado.
+30,Sra. Alexia Camargo,12.068.493/0001-80,PF,BA,telefone,5,4,232.74,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+31,Leandro Fonseca,053.819.276-30,PF,RN,telefone,3,4,253.16,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+32,Srta. Isabela Castro,260.159.347-43,PF,GO,whatsapp,4,39,56.06,bom,Média,Quero entender as opções para regularizar meu débito.
+33,Cauê Garcia,073.182.495-41,PF,AC,app,1,18,122.78,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+34,Evelyn Guerra,541.629.387-09,PF,AC,e-mail,3,1,223.79,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+35,José Pedro Cavalcanti,940.783.251-14,PF,PA,chat,5,30,171.97,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+36,Sophia Camargo,634.058.927-83,PF,MS,whatsapp,2,4,123.48,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+37,Ana Lívia Rios,59.182.463/0001-64,PF,PA,e-mail,5,66,154.47,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+38,Dr. Juan Novaes,236.581.940-06,PF,MA,chat,2,6,100.54,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+39,Gustavo Henrique Lopes,957.361.820-68,PF,RO,telefone,2,6,38.62,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+40,João Miguel Moraes,951.672.804-94,PJ,AC,e-mail,4,2,155.57,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+41,Joaquim Melo,917.354.826-09,PJ,PR,e-mail,4,33,252.65,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+42,Isabelly Casa Grande,016.874.392-22,PF,AM,e-mail,4,24,93.06,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+43,Catarina Martins,895.634.721-28,PF,CE,app,1,19,20.0,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+44,Sra. Milena da Luz,347.512.906-06,PF,ES,chat,2,7,264.69,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+45,Lucas Gabriel Dias,812.963.570-40,PF,AP,chat,5,38,168.44,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+46,Maria Luísa Farias,876.013.429-13,PF,SP,telefone,4,15,118.28,regular,Baixa,Qual é o meu débito atual?
+47,Maria Helena Mendes,05.463.817/0001-10,PF,ES,e-mail,3,11,168.01,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+48,Pedro Henrique Mendonça,065.783.149-20,PF,RN,e-mail,1,6,58.34,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+49,Amanda Gonçalves,901.537.682-40,PF,GO,whatsapp,2,1,217.43,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+50,Lunna Cunha,75.863.291/0001-40,PF,TO,app,4,2,126.67,bom,Baixa,Solicito a segunda via do boleto referente a 126.67 reais. Estou aguardando uma resposta.
+51,Ravy Almeida,805.179.432-04,PF,DF,telefone,3,30,199.94,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+52,Eduardo da Costa,271.483.950-97,PF,RN,whatsapp,4,16,437.09,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+53,Bruna Vasconcelos,241.809.375-14,PF,AP,whatsapp,3,16,434.11,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+54,Isabelly Caldeira,410.293.678-50,PF,AC,whatsapp,5,0,533.51,bom,Média,Gostaria de negociar o valor de 533.51 reais em atraso. Aguardo retorno.
+55,Rebeca Caldeira,657.813.924-91,PF,RN,app,2,4,162.18,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+56,Rafaela Martins,64.591.027/0001-89,PF,ES,e-mail,3,13,76.83,ruim,Baixa,Solicito a segunda via do boleto referente a 76.83 reais. Estou aguardando uma resposta.
+57,Maria Helena Fernandes,075.136.248-44,PJ,GO,e-mail,1,48,111.19,regular,Média,Gostaria de negociar o valor de 111.19 reais em atraso. Muito obrigado.
+58,Kamilly Novais,083.917.426-87,PF,RR,app,3,22,285.8,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+59,Rebeca Machado,014.836.257-53,PF,PR,telefone,3,40,470.97,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+60,Vitória Ferreira,685.273.914-73,PJ,ES,chat,1,8,91.59,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+61,Gael Dias,182.963.745-28,PF,AM,whatsapp,4,21,80.27,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+62,Juan da Conceição,524.097.136-61,PF,AL,chat,5,80,235.48,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+63,Lavínia Sampaio,27.160.498/0001-06,PF,PR,e-mail,2,17,76.67,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+64,Manuela Cirino,047.963.852-74,PF,BA,app,3,4,274.16,regular,Média,Preciso de condições melhores para quitar minha dívida.
+65,Kevin Barros,316.475.829-46,PF,PB,app,5,3,346.77,bom,Média,Quero entender as opções para regularizar meu débito.
+66,Letícia Pastor,640.857.129-85,PF,GO,app,3,30,231.74,regular,Baixa,Qual é o meu débito atual?
+67,Anna Liz Castro,321.709.486-78,PF,MA,whatsapp,1,1,134.4,regular,Baixa,Solicito a segunda via do boleto referente a 134.4 reais. Muito obrigado.
+68,Igor da Paz,471.582.630-53,PJ,PI,e-mail,3,11,153.91,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+69,Dom da Mata,210.894.567-94,PF,PB,e-mail,4,13,55.21,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+70,Sra. Maria Luiza da Mata,897.304.512-14,PF,RN,app,2,59,20.0,bom,Média,Gostaria de negociar o valor de 20 reais em atraso. Aguardo retorno.
+71,Apollo Borges,304.781.926-22,PF,GO,whatsapp,5,1,236.06,regular,Baixa,Solicito a segunda via do boleto referente a 236.06 reais. Muito obrigado.
+72,Pedro Henrique Porto,71.923.645/0001-44,PF,AM,app,1,116,127.91,regular,Alta,"Não consigo pagar desde 116 dias, perdi meu emprego. Muito obrigado."
+73,Lucas Jesus,746.980.351-39,PF,GO,telefone,1,8,189.26,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+74,Sr. Nathan Moraes,08.739.126/0001-94,PJ,SP,whatsapp,4,22,43.68,bom,Baixa,Solicito a segunda via do boleto referente a 43.68 reais. Aguardo retorno.
+75,Melina Teixeira,034.712.865-35,PF,AM,chat,2,32,156.08,bom,Média,Gostaria de negociar o valor de 156.08 reais em atraso.
+76,Isaque Santos,24.083.716/0001-68,PF,PB,app,5,13,248.25,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+77,Eduardo Monteiro,489.365.170-66,PF,MG,app,3,24,281.93,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+78,Thomas Souza,214.639.708-03,PJ,SC,e-mail,3,0,138.3,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+79,Samuel Cassiano,789.264.315-09,PF,DF,whatsapp,1,3,59.9,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+80,Srta. Maria Isis da Conceição,605.739.428-38,PF,PR,e-mail,1,41,203.17,ruim,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+81,Davi Lucas Montenegro,95.163.084/0001-90,PF,SC,chat,4,9,145.2,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+82,Nicolas Rezende,21.769.534/0001-57,PF,AP,e-mail,4,12,184.65,regular,Baixa,Solicito a segunda via do boleto referente a 184.65 reais. Aguardo retorno.
+83,Dr. Liam Pires,780.491.253-60,PJ,PA,chat,2,5,115.83,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+84,Carlos Eduardo Macedo,24.079.651/0001-87,PJ,MS,app,3,23,20.0,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+85,Clara da Cruz,862.190.374-13,PF,PR,chat,5,5,25.56,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+86,Cecília da Conceição,749.250.318-05,PF,AP,chat,5,15,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+87,Manuella Pastor,469.321.870-78,PF,ES,whatsapp,3,30,141.05,regular,Baixa,Qual é o meu débito atual?
+88,Maria Alice Oliveira,490.653.278-00,PF,RN,whatsapp,5,2,252.02,bom,Média,Preciso de condições melhores para quitar minha dívida.
+89,Sra. Laura Vasconcelos,359.814.270-60,PF,RS,e-mail,4,54,180.43,ruim,Média,Quero entender as opções para regularizar meu débito.
+90,Asafe das Neves,705.918.263-21,PF,CE,e-mail,3,2,216.63,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+91,Davi Lucca Viana,854.612.397-73,PF,SE,chat,3,12,148.97,bom,Baixa,"Solicito a segunda via do boleto referente a 148.97 reais. Por favor, me ajudem."
+92,Ravi Lucca Barbosa,236.749.018-03,PF,GO,telefone,2,5,244.65,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+93,Camila Marques,546.792.083-92,PF,PR,app,2,20,185.09,ruim,Baixa,Qual é o meu débito atual?
+94,Luan Pimenta,31.752.904/0001-05,PF,AL,telefone,2,14,213.92,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+95,Kevin Monteiro,193.487.652-64,PF,RJ,telefone,5,42,292.88,regular,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+96,Dra. Daniela Leão,176.208.934-31,PF,ES,whatsapp,2,4,23.17,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+97,Sr. Léo Nogueira,506.218.347-26,PF,RS,e-mail,3,10,177.01,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+98,Alícia Aragão,532.641.078-80,PF,RJ,app,5,6,374.19,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+99,Igor Farias,204.615.983-70,PF,RO,e-mail,3,22,103.74,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+100,Davi Lucca Albuquerque,539.012.687-40,PF,PE,e-mail,3,47,20.0,bom,Média,"Gostaria de negociar o valor de 20 reais em atraso. Por favor, me ajudem."
+101,Benício Melo,751.349.028-79,PJ,PB,app,1,8,283.82,regular,Média,Gostaria de negociar o valor de 283.82 reais em atraso. Estou aguardando uma resposta.
+102,Ana Araújo,768.503.492-10,PJ,MT,whatsapp,3,45,26.23,regular,Média,Gostaria de negociar o valor de 26.23 reais em atraso. Muito obrigado.
+103,Clara Azevedo,245.387.916-28,PJ,AM,chat,1,40,231.15,bom,Média,Gostaria de negociar o valor de 231.15 reais em atraso. Aguardo retorno.
+104,Srta. Helena Lopes,736.285.490-00,PJ,MT,chat,3,20,217.88,regular,Baixa,Qual é o meu débito atual?
+105,Luara Rios,45.283.096/0001-80,PJ,AP,whatsapp,3,22,33.85,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+106,Aylla Souza,52.046.983/0001-09,PJ,AM,e-mail,3,72,107.64,regular,Média,Gostaria de negociar o valor de 107.64 reais em atraso. Aguardo retorno.
+107,Maria Rios,604.725.893-00,PF,BA,e-mail,2,40,115.21,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+108,Rafaela Câmara,158.024.936-15,PJ,RN,chat,5,12,202.74,regular,Baixa,Solicito a segunda via do boleto referente a 202.74 reais. Aguardo retorno.
+109,Juliana Alves,248.960.173-31,PF,AP,app,4,11,76.18,bom,Baixa,Qual é o meu débito atual?
+110,Arthur Borges,836.972.154-00,PF,SC,telefone,5,16,261.96,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+111,Sr. Benjamim Cassiano,201.935.467-52,PJ,PA,e-mail,4,62,466.78,bom,Média,Gostaria de negociar o valor de 466.78 reais em atraso. Muito obrigado.
+112,Henrique Sá,815.302.649-60,PJ,AL,e-mail,5,4,396.3,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+113,Miguel Peixoto,093.215.647-99,PF,AM,chat,2,11,111.83,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+114,Theo Souza,628.341.705-17,PF,SC,chat,3,22,233.8,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+115,Pedro Henrique Almeida,715.436.928-00,PF,MA,e-mail,3,6,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+116,Nathan Almeida,527.698.013-68,PF,ES,chat,3,15,102.85,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+117,Maria Liz Moura,164.529.803-51,PJ,PE,chat,5,0,112.98,regular,Baixa,Solicito a segunda via do boleto referente a 112.98 reais. Muito obrigado.
+118,Bruna Moura,83.527.140/0001-40,PF,BA,telefone,5,16,230.03,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+119,Gael Henrique Cavalcanti,92.175.348/0001-38,PF,SP,chat,1,10,209.6,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+120,Melissa Rodrigues,958.130.762-12,PF,SE,e-mail,1,30,371.16,bom,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+121,Benjamin Fogaça,814.360.792-50,PF,AP,telefone,5,5,119.23,bom,Baixa,Solicito a segunda via do boleto referente a 119.23 reais. Estou aguardando uma resposta.
+122,Ayla Pimenta,986.345.017-01,PF,MT,app,4,18,65.85,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+123,Olívia Montenegro,207.896.145-02,PF,RR,chat,1,36,278.74,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+124,Maysa Moura,825.963.410-42,PF,SE,chat,1,39,103.83,regular,Média,Gostaria de negociar o valor de 103.83 reais em atraso. Aguardo retorno.
+125,Lívia Azevedo,516.274.830-71,PF,RJ,app,5,53,456.66,regular,Média,"Gostaria de negociar o valor de 456.66 reais em atraso. Por favor, me ajudem."
+126,Cecília Ferreira,462.950.731-07,PF,RS,e-mail,5,16,168.08,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+127,Sr. Vinicius Borges,685.027.193-86,PF,SP,e-mail,4,13,358.93,ruim,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+128,Evelyn Câmara,291.804.567-58,PF,SP,app,4,11,77.82,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+129,Caroline Peixoto,628.154.973-28,PF,AL,telefone,4,42,186.91,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+130,Maria Clara Rocha,374.659.120-16,PJ,MA,e-mail,3,1,173.92,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+131,Evelyn Freitas,978.623.405-74,PF,SE,telefone,2,5,214.89,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+132,Cecilia da Cunha,075.496.813-84,PJ,SP,e-mail,4,0,227.94,ruim,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+133,João Gabriel Machado,826.013.975-86,PF,AL,whatsapp,2,35,227.2,bom,Média,Gostaria de negociar o valor de 227.2 reais em atraso. Muito obrigado.
+134,Sarah Freitas,361.270.845-71,PF,SE,whatsapp,1,0,226.1,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+135,Davi Miguel Andrade,47.265.398/0001-51,PF,AC,app,2,16,149.25,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+136,Antony da Cunha,326.081.579-12,PF,ES,whatsapp,5,18,255.46,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+137,Natália Azevedo,170.546.928-02,PF,MA,whatsapp,1,32,217.44,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+138,Agatha Pimenta,536.190.248-98,PJ,MG,chat,5,21,286.57,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+139,Ana Clara Porto,654.802.913-51,PF,SC,telefone,5,9,135.93,regular,Baixa,Qual é o meu débito atual?
+140,Bella Vargas,952.074.836-92,PJ,TO,app,4,1,69.56,bom,Baixa,Solicito a segunda via do boleto referente a 69.56 reais. Aguardo retorno.
+141,Nicole Sampaio,728.053.614-07,PF,AL,whatsapp,1,11,327.69,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+142,Asafe Dias,486.793.205-10,PF,MA,app,3,4,22.49,regular,Baixa,Qual é o meu débito atual?
+143,Sr. Lucas da Mata,156.387.490-39,PF,PR,app,1,27,161.39,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+144,Sra. Maria Eduarda Moreira,41.603.982/0001-93,PJ,MA,e-mail,2,7,142.71,regular,Baixa,Solicito a segunda via do boleto referente a 142.71 reais.
+145,Sr. Bruno Duarte,497.853.126-82,PF,MS,app,5,13,165.96,regular,Baixa,Solicito a segunda via do boleto referente a 165.96 reais. Aguardo retorno.
+146,Ana Cecília Siqueira,564.908.317-75,PJ,AC,telefone,4,135,169.83,regular,Alta,"Estou com dívidas acumuladas há 135 dias, preciso de ajuda. Aguardo retorno."
+147,Pedro Lucas Andrade,213.659.480-05,PF,RN,telefone,1,10,20.0,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+148,Rael Freitas,571.486.293-73,PF,RS,e-mail,1,5,244.95,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+149,Josué Camargo,027.436.918-40,PF,RR,telefone,5,4,20.0,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+150,Hadassa Pimenta,473.016.895-00,PJ,AP,whatsapp,1,14,332.55,ruim,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+151,Luiza Rios,514.289.630-06,PF,AM,app,4,20,154.24,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+152,Davi Miguel da Costa,705.462.398-38,PF,RN,chat,2,4,251.71,regular,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+153,Benício das Neves,67.983.405/0001-68,PF,MT,whatsapp,5,19,216.98,bom,Baixa,Solicito a segunda via do boleto referente a 216.98 reais. Estou aguardando uma resposta.
+154,Ana Sophia Machado,785.149.603-93,PF,PE,telefone,3,56,39.4,regular,Média,"Gostaria de negociar o valor de 39.4 reais em atraso. Por favor, me ajudem."
+155,Davi Moreira,249.176.538-19,PF,AP,telefone,5,27,104.41,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+156,Gael Henrique Porto,842.579.063-83,PF,RJ,e-mail,1,68,75.12,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+157,Daniela Cavalcante,950.678.421-30,PJ,RS,e-mail,1,14,211.94,ruim,Baixa,Qual é o meu débito atual?
+158,Oliver Pinto,07.452.316/0001-63,PF,MG,e-mail,3,3,232.97,ruim,Baixa,Solicito a segunda via do boleto referente a 232.97 reais.
+159,Rafael Barbosa,027.365.149-80,PF,MT,app,5,70,218.32,bom,Média,Gostaria de negociar o valor de 218.32 reais em atraso. Estou aguardando uma resposta.
+160,Sra. Manuella Guerra,251.973.086-21,PF,ES,e-mail,2,69,246.88,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+161,Calebe Aragão,468.172.903-50,PJ,PR,app,5,11,328.06,bom,Média,Gostaria de negociar o valor de 328.06 reais em atraso. Estou aguardando uma resposta.
+162,Nina Monteiro,470.839.562-00,PF,RJ,e-mail,3,9,56.36,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+163,Sr. Benicio da Paz,79.480.536/0001-01,PJ,GO,telefone,3,17,99.65,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+164,Sra. Maria Luiza Fonseca,069.481.235-89,PF,AP,chat,2,38,305.43,bom,Média,Gostaria de negociar o valor de 305.43 reais em atraso. Estou aguardando uma resposta.
+165,Sofia Machado,84.170.326/0001-57,PF,PI,e-mail,2,7,64.91,regular,Baixa,Solicito a segunda via do boleto referente a 64.91 reais. Aguardo retorno.
+166,Sr. Gael Henrique Pereira,86.079.124/0001-20,PF,PE,e-mail,3,28,265.91,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+167,Clarice Pereira,825.491.376-55,PF,RJ,e-mail,3,11,72.63,bom,Baixa,"Solicito a segunda via do boleto referente a 72.63 reais. Por favor, me ajudem."
+168,Dr. Kaique Melo,058.793.246-56,PJ,RN,e-mail,1,43,36.12,bom,Média,"Gostaria de negociar o valor de 36.12 reais em atraso. Por favor, me ajudem."
+169,Julia Rezende,930.481.572-04,PF,AL,e-mail,3,8,134.86,ruim,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+170,Brenda Correia,075.316.842-17,PJ,SC,chat,4,7,100.75,regular,Baixa,"Solicito a segunda via do boleto referente a 100.75 reais. Por favor, me ajudem."
+171,Srta. Cecilia Moreira,385.794.610-57,PF,PB,whatsapp,3,37,383.89,ruim,Média,"Gostaria de negociar o valor de 383.89 reais em atraso. Por favor, me ajudem."
+172,Manuela Nogueira,547.162.809-85,PJ,SP,e-mail,3,69,227.86,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+173,Gustavo Henrique Sales,75.924.680/0001-39,PF,RJ,whatsapp,2,17,300.17,bom,Média,Quero entender as opções para regularizar meu débito.
+174,Ísis Garcia,652.709.814-67,PF,RS,chat,1,24,334.11,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+175,Rhavi Cunha,384.752.106-35,PF,ES,chat,2,61,312.15,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+176,Vinícius Câmara,301.926.854-06,PF,AC,chat,2,1,163.19,regular,Baixa,Solicito a segunda via do boleto referente a 163.19 reais. Muito obrigado.
+177,Eduarda Jesus,793.625.480-38,PF,SP,app,5,10,106.2,bom,Baixa,"Solicito a segunda via do boleto referente a 106.2 reais. Por favor, me ajudem."
+178,Igor Nascimento,02.671.935/0001-25,PF,CE,e-mail,3,2,117.32,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+179,Sra. Ana Carolina Albuquerque,415.239.708-04,PJ,GO,chat,4,28,190.68,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+180,Daniel Farias,274.510.968-58,PF,CE,chat,2,32,336.55,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+181,Maria Luiza Lima,851.390.746-48,PF,MT,app,2,3,417.57,regular,Média,"Gostaria de negociar o valor de 417.57 reais em atraso. Por favor, me ajudem."
+182,André da Luz,637.925.480-38,PF,GO,app,5,35,214.92,regular,Média,Gostaria de negociar o valor de 214.92 reais em atraso. Muito obrigado.
+183,Maria Cecília Sales,301.927.654-34,PF,RR,app,5,2,208.45,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+184,Juan Freitas,938.176.524-37,PF,PA,chat,2,2,383.43,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+185,Dra. Olivia Sá,839.540.721-14,PF,AP,e-mail,5,12,264.06,regular,Média,Gostaria de negociar o valor de 264.06 reais em atraso. Muito obrigado.
+186,Brenda Araújo,89.346.157/0001-87,PF,PE,e-mail,5,6,108.23,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+187,Bruna Rodrigues,371.490.568-57,PF,PB,whatsapp,5,13,92.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+188,Ana Laura Novais,740.329.158-14,PF,AL,e-mail,1,13,299.92,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+189,Manuella Sampaio,180.736.294-96,PF,SP,e-mail,1,8,118.84,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+190,Otto Freitas,67.930.412/0001-00,PJ,MS,e-mail,3,37,260.05,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+191,Felipe Nascimento,68.251.049/0001-50,PF,PB,e-mail,2,58,153.73,bom,Média,Gostaria de negociar o valor de 153.73 reais em atraso. Aguardo retorno.
+192,Ísis Lima,863.172.950-77,PF,SC,e-mail,3,17,188.57,bom,Baixa,Solicito a segunda via do boleto referente a 188.57 reais. Aguardo retorno.
+193,Arthur Gabriel Ribeiro,603.185.497-00,PF,ES,e-mail,2,15,288.54,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+194,Srta. Maria Liz Macedo,389.601.254-15,PF,RJ,e-mail,1,1,354.6,bom,Média,Gostaria de negociar o valor de 354.6 reais em atraso. Muito obrigado.
+195,Luna da Costa,423.785.096-00,PF,RS,telefone,1,3,20.0,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+196,Mariane Novais,705.963.241-70,PJ,PA,whatsapp,1,16,377.47,regular,Média,Gostaria de negociar o valor de 377.47 reais em atraso. Estou aguardando uma resposta.
+197,Kaique Garcia,287.169.530-02,PF,PI,e-mail,2,59,169.88,bom,Média,Quero entender as opções para regularizar meu débito.
+198,Maria Vitória Novais,826.197.530-40,PF,PB,chat,3,8,255.45,regular,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+199,Sr. Vitor Gabriel Silveira,304.957.862-92,PF,SE,whatsapp,5,2,156.35,ruim,Baixa,Solicito a segunda via do boleto referente a 156.35 reais. Muito obrigado.
+200,Helena Mendes,354.018.627-17,PF,ES,e-mail,4,0,44.86,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+201,Dra. Gabrielly Gonçalves,385.629.471-64,PF,MA,telefone,1,15,278.18,regular,Média,Preciso de condições melhores para quitar minha dívida.
+202,Luiz Miguel Moraes,79.165.320/0001-51,PJ,MS,app,5,2,124.08,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+203,Dr. Augusto Nunes,32.084.591/0001-19,PJ,BA,whatsapp,3,43,251.92,regular,Média,Tenho uma proposta de pagamento parcelado.
+204,Lucas da Conceição,637.452.918-91,PF,PB,whatsapp,5,70,249.92,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+205,Luiz Gustavo Cavalcante,287.140.539-50,PF,SP,telefone,2,45,285.9,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+206,Noah Carvalho,312.084.956-15,PF,RN,e-mail,2,3,172.45,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+207,Rafaela Ribeiro,708.463.951-93,PJ,PI,whatsapp,5,60,238.69,regular,Média,Gostaria de negociar o valor de 238.69 reais em atraso. Aguardo retorno.
+208,Antony Montenegro,621.047.593-07,PF,TO,whatsapp,3,36,134.88,regular,Média,Gostaria de negociar o valor de 134.88 reais em atraso. Estou aguardando uma resposta.
+209,Dr. Miguel Barros,567.419.230-80,PF,RS,whatsapp,3,9,297.99,bom,Média,Gostaria de negociar o valor de 297.99 reais em atraso. Aguardo retorno.
+210,Ana Beatriz Borges,698.430.725-29,PF,AP,chat,5,3,344.22,ruim,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+211,Maya Ramos,510.864.397-75,PF,AP,telefone,2,94,170.04,ruim,Alta,"Minha situação financeira está complicada, estou devendo 170.04 reais. Estou aguardando uma resposta."
+212,Lara Nogueira,902.678.154-76,PF,SP,app,5,14,391.8,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+213,Sra. Ana Vitória da Rosa,236.549.870-10,PF,SE,app,1,23,272.23,regular,Média,Gostaria de negociar o valor de 272.23 reais em atraso. Muito obrigado.
+214,Dra. Anna Liz Montenegro,501.378.269-40,PF,SP,whatsapp,2,7,203.29,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+215,Sr. João Gabriel Viana,79.324.850/0001-03,PF,RO,e-mail,5,23,146.31,regular,Baixa,Solicito a segunda via do boleto referente a 146.31 reais. Aguardo retorno.
+216,Maria Helena Barros,943.506.281-42,PF,RR,whatsapp,4,32,313.36,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+217,Daniela Sousa,658.097.213-03,PF,SP,chat,1,27,119.28,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+218,Cauã Cardoso,126.345.708-80,PF,AP,chat,4,125,21.04,ruim,Alta,"Minha situação financeira está complicada, estou devendo 21.04 reais. Estou aguardando uma resposta."
+219,Sr. Luan Gomes,046.398.125-15,PF,RO,whatsapp,3,2,185.42,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+220,Eloá Carvalho,49.831.056/0001-87,PF,GO,telefone,3,5,285.42,bom,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+221,Letícia Mendes,154.983.670-66,PJ,BA,telefone,3,30,203.16,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+222,André Gonçalves,569.328.147-73,PF,RN,telefone,5,8,185.39,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+223,Srta. Pietra Dias,265.973.148-91,PF,GO,app,3,45,276.73,bom,Média,Preciso de condições melhores para quitar minha dívida.
+224,Maria Clara Camargo,932.540.876-74,PF,PB,whatsapp,5,31,327.71,ruim,Média,Gostaria de negociar o valor de 327.71 reais em atraso. Aguardo retorno.
+225,Bernardo Vieira,672.581.930-30,PF,RR,app,3,26,205.54,bom,Baixa,Solicito a segunda via do boleto referente a 205.54 reais. Aguardo retorno.
+226,Maria Flor Barbosa,796.483.015-57,PF,AM,whatsapp,3,17,245.82,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+227,Luiz Gustavo Cavalcante,906.723.845-74,PF,GO,e-mail,2,36,203.22,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+228,Thomas Souza,893.726.450-10,PF,MS,chat,2,18,33.35,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+229,Rodrigo Caldeira,461.057.293-16,PF,PB,telefone,5,3,147.19,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+230,Vicente Mendes,57.139.620/0001-23,PF,MA,e-mail,2,9,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+231,Danilo Almeida,512.984.670-20,PF,MT,chat,4,8,386.05,ruim,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+232,Mariane Martins,362.159.407-80,PJ,PB,chat,1,15,163.85,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+233,Mariane Gomes,038.259.467-38,PF,MS,chat,2,60,306.56,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+234,Sr. Raul Camargo,475.936.820-56,PF,MS,telefone,5,3,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+235,Dr. Erick Rocha,41.270.865/0001-55,PF,CE,e-mail,4,54,86.03,bom,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+236,Sr. Thomas Gomes,629.317.580-86,PF,PR,telefone,3,12,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais. Estou aguardando uma resposta.
+237,Davi Miguel Cirino,570.628.349-47,PJ,TO,e-mail,3,17,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais. Aguardo retorno.
+238,Sofia Rezende,769.358.402-10,PF,RJ,chat,3,19,91.24,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+239,Henry da Rocha,043.821.756-07,PF,PI,telefone,2,2,20.0,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+240,Brenda Oliveira,145.803.967-66,PF,SC,app,4,4,279.71,regular,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+241,Isadora da Rosa,074.293.586-83,PF,SE,whatsapp,1,15,447.39,bom,Média,Gostaria de negociar o valor de 447.39 reais em atraso. Muito obrigado.
+242,Dra. Marcela Santos,962.415.803-70,PF,PI,telefone,2,19,231.53,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+243,Vitor Gabriel Cavalcante,54.872.603/0001-02,PF,SP,telefone,1,41,20.0,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+244,Ana Liz da Mota,293.158.647-19,PF,PR,app,2,44,329.92,ruim,Média,Tenho uma proposta de pagamento parcelado.
+245,João Felipe Pires,697.058.321-02,PF,RR,whatsapp,4,8,267.94,bom,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+246,Dr. Ryan Duarte,90.153.284/0001-49,PF,MG,app,2,32,78.65,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+247,Paulo Cunha,745.629.183-73,PF,SE,app,1,8,446.54,regular,Média,Gostaria de negociar o valor de 446.54 reais em atraso. Muito obrigado.
+248,Sr. Augusto Brito,701.693.485-39,PF,DF,e-mail,3,7,97.52,bom,Baixa,"Solicito a segunda via do boleto referente a 97.52 reais. Por favor, me ajudem."
+249,Srta. Liz Castro,415.206.873-62,PF,RS,chat,2,2,280.45,bom,Média,Preciso de condições melhores para quitar minha dívida.
+250,Igor Lima,190.837.624-40,PF,PE,chat,1,4,20.0,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+251,Melina Albuquerque,051.637.892-95,PF,MG,whatsapp,3,16,297.15,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+252,Cauã Caldeira,594.136.702-34,PF,RN,e-mail,1,7,20.0,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+253,Eloah Macedo,532.846.107-07,PF,BA,e-mail,3,17,119.84,bom,Baixa,Qual é o meu débito atual?
+254,Matheus Ferreira,652.170.983-68,PF,SP,whatsapp,5,9,187.79,bom,Baixa,"Solicito a segunda via do boleto referente a 187.79 reais. Por favor, me ajudem."
+255,Srta. Liz Costela,893.572.061-59,PF,MG,e-mail,1,36,319.78,ruim,Média,Gostaria de negociar o valor de 319.78 reais em atraso. Aguardo retorno.
+256,Isaque Monteiro,910.268.354-70,PF,MS,whatsapp,2,9,43.78,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+257,Emanuella Teixeira,710.495.263-25,PJ,AL,whatsapp,1,4,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+258,Sofia da Paz,869.530.174-57,PF,MA,app,1,18,157.17,bom,Baixa,Solicito a segunda via do boleto referente a 157.17 reais. Aguardo retorno.
+259,Thomas Costela,28.534.096/0001-97,PF,PA,chat,5,23,198.14,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+260,Srta. Ana Laura da Cruz,169.345.078-00,PF,AM,app,5,18,89.59,regular,Baixa,Qual é o meu débito atual?
+261,Davi Miguel Sampaio,027.845.691-01,PJ,BA,e-mail,5,5,200.84,bom,Baixa,Solicito a segunda via do boleto referente a 200.84 reais. Muito obrigado.
+262,Sra. Bárbara Vargas,056.249.738-29,PF,PR,chat,5,13,101.72,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+263,Sophia Fonseca,072.816.943-69,PJ,ES,whatsapp,1,11,82.19,ruim,Baixa,"Solicito a segunda via do boleto referente a 82.19 reais. Por favor, me ajudem."
+264,Dra. Agatha Aparecida,03.982.617/0001-48,PJ,AL,app,4,6,354.47,bom,Média,Tenho uma proposta de pagamento parcelado.
+265,Mariah Câmara,536.927.041-43,PJ,AM,telefone,2,3,262.5,regular,Média,Tenho uma proposta de pagamento parcelado.
+266,Ana Júlia Cavalcanti,380.976.214-87,PF,AP,whatsapp,3,4,264.92,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+267,Mirella Albuquerque,534.726.189-73,PF,RJ,chat,5,1,135.14,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+268,Fernanda Siqueira,832.096.175-03,PF,RS,whatsapp,3,29,176.75,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+269,Srta. Lívia Abreu,641.789.350-20,PF,BA,e-mail,3,34,287.68,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+270,Sra. Ayla Aparecida,38.652.907/0001-08,PF,AM,whatsapp,1,41,29.8,regular,Média,Quero entender as opções para regularizar meu débito.
+271,Catarina Porto,61.035.849/0001-95,PF,GO,chat,2,1,271.59,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+272,Dr. Luan Dias,743.015.692-43,PJ,CE,app,1,3,311.21,ruim,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+273,Nina Dias,615.983.274-37,PJ,AM,e-mail,5,19,228.03,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+274,Emanuel Rodrigues,403.621.857-35,PF,MS,whatsapp,3,30,234.6,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+275,Sophie Aragão,492.035.168-24,PF,AM,chat,1,16,121.81,ruim,Baixa,Solicito a segunda via do boleto referente a 121.81 reais. Aguardo retorno.
+276,Davi Albuquerque,03.218.794/0001-52,PF,RJ,chat,4,27,41.85,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+277,Breno Almeida,137.690.248-69,PJ,PB,e-mail,5,111,145.2,bom,Alta,"Minha situação financeira está complicada, estou devendo 145.2 reais. Por favor, me ajudem."
+278,Enzo Gabriel Oliveira,697.035.148-39,PF,CE,app,5,2,66.56,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+279,João Lucas Machado,203.597.461-52,PF,AL,chat,1,3,358.89,bom,Média,Gostaria de negociar o valor de 358.89 reais em atraso. Muito obrigado.
+280,João Lucas Gomes,263.541.089-51,PF,PR,app,5,11,232.79,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+281,Raquel Ferreira,98.532.104/0001-41,PF,RN,chat,1,31,273.39,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+282,Arthur Vasconcelos,40.792.618/0001-56,PF,AM,e-mail,3,5,78.22,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+283,Isaque da Mata,80.347.219/0001-09,PF,ES,app,5,18,404.75,ruim,Média,Tenho uma proposta de pagamento parcelado.
+284,Luiza Sousa,509.461.732-06,PF,CE,telefone,1,12,163.36,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+285,Ana Carolina Borges,038.947.615-39,PF,SE,whatsapp,1,20,290.37,bom,Média,Gostaria de negociar o valor de 290.37 reais em atraso. Muito obrigado.
+286,Luigi Silva,250.714.863-26,PF,AP,telefone,2,10,102.61,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+287,Dr. Carlos Eduardo Fernandes,452.183.976-28,PF,CE,chat,4,17,123.24,ruim,Baixa,Solicito a segunda via do boleto referente a 123.24 reais. Aguardo retorno.
+288,Dra. Maria Alice Câmara,92.685.710/0001-10,PF,SC,chat,2,26,61.58,bom,Baixa,Solicito a segunda via do boleto referente a 61.58 reais. Aguardo retorno.
+289,Matteo Vargas,90.247.615/0001-00,PJ,RJ,whatsapp,5,21,292.85,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+290,Theo Casa Grande,51.326.809/0001-49,PF,RO,chat,5,41,276.45,regular,Média,Quero entender as opções para regularizar meu débito.
+291,Lívia Machado,04.315.926/0001-27,PF,SE,telefone,2,0,110.46,regular,Baixa,Qual é o meu débito atual?
+292,Alexandre Aragão,679.135.482-82,PJ,AM,whatsapp,4,2,158.23,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+293,Heloisa Castro,71.029.645/0001-03,PF,AP,telefone,4,60,39.11,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+294,Sr. Marcos Vinicius Castro,189.245.360-60,PJ,PA,whatsapp,5,6,431.46,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+295,Eloah Pereira,620.781.435-53,PF,RO,whatsapp,4,23,471.97,regular,Média,Gostaria de negociar o valor de 471.97 reais em atraso. Aguardo retorno.
+296,Kaique da Costa,106.473.985-75,PJ,AC,telefone,1,2,62.55,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+297,Aurora da Rocha,973.061.428-87,PJ,AP,whatsapp,2,2,152.93,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+298,Bruna das Neves,678.520.341-44,PJ,MG,chat,5,22,265.51,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+299,Sr. Pietro Aparecida,478.216.039-96,PJ,AP,telefone,5,6,161.8,regular,Baixa,Solicito a segunda via do boleto referente a 161.8 reais.
+300,Manuella Nogueira,63.098.452/0001-78,PF,RO,whatsapp,4,59,26.81,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+301,Isabela Melo,416.750.893-10,PF,CE,app,3,10,89.81,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+302,Heitor Correia,20.685.319/0001-05,PF,BA,e-mail,5,3,69.89,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+303,Joana Dias,196.437.285-28,PJ,AC,whatsapp,3,18,333.54,bom,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+304,Dra. Stephany Viana,619.874.032-31,PF,SE,app,2,4,20.0,regular,Baixa,Qual é o meu débito atual?
+305,Vitor Gabriel Ferreira,64.953.870/0001-68,PF,CE,chat,5,58,253.11,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+306,Nathan Casa Grande,960.321.754-99,PF,GO,telefone,1,5,290.75,ruim,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+307,Sr. Lucca Vieira,498.630.175-66,PF,SC,chat,5,20,277.55,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+308,Luna da Mata,613.789.425-82,PF,TO,whatsapp,4,12,83.49,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+309,Théo Vieira,21.457.389/0001-79,PF,RJ,app,3,4,126.84,bom,Baixa,Solicito a segunda via do boleto referente a 126.84 reais. Estou aguardando uma resposta.
+310,Erick Correia,309.876.254-38,PF,GO,app,5,28,45.13,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+311,Dr. Thiago Gonçalves,10.327.458/0001-03,PJ,PR,app,4,79,312.29,ruim,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+312,Marcela Ferreira,241.903.586-06,PJ,ES,e-mail,1,8,111.83,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+313,Heloisa Rocha,346.805.972-83,PF,RN,chat,4,43,170.58,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+314,Henry Gabriel da Cunha,948.362.510-60,PF,PB,whatsapp,5,20,456.74,ruim,Média,Gostaria de negociar o valor de 456.74 reais em atraso. Aguardo retorno.
+315,Vicente Pinto,610.452.987-94,PF,PR,telefone,2,15,328.12,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+316,Lucca da Mota,548.962.107-94,PF,AL,app,4,13,301.12,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+317,Maria Luiza Ribeiro,520.938.416-06,PF,MG,e-mail,1,26,209.07,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+318,Srta. Esther Fernandes,387.524.609-83,PJ,MA,app,3,5,154.58,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+319,Ravy Cardoso,482.570.139-60,PF,SC,whatsapp,3,12,168.88,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+320,Otto Viana,594.723.016-06,PJ,RS,telefone,2,31,327.45,ruim,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+321,Ana Sophia Melo,38.165.927/0001-54,PJ,AL,chat,2,38,189.24,ruim,Média,Preciso de condições melhores para quitar minha dívida.
+322,Davi Miguel Costa,56.712.804/0001-78,PF,MT,telefone,1,24,130.37,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+323,Emanuelly Dias,097.215.438-88,PF,BA,chat,4,1,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+324,Maya Porto,698.370.425-83,PF,SC,app,5,5,234.64,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+325,Sr. Lorenzo Sá,830.571.429-23,PF,MA,chat,2,42,301.22,ruim,Média,Gostaria de negociar o valor de 301.22 reais em atraso. Estou aguardando uma resposta.
+326,Cauã Gomes,842.067.913-50,PF,PA,telefone,1,18,40.69,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+327,Catarina Fernandes,753.190.642-25,PF,DF,telefone,2,19,282.38,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+328,Srta. Sofia Cavalcante,150.382.746-17,PF,RO,chat,3,7,475.18,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+329,Antônio Aragão,167.304.295-34,PF,DF,chat,1,3,235.26,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+330,Dra. Alexia da Rosa,61.479.830/0001-38,PF,PE,whatsapp,4,16,20.0,bom,Baixa,Solicito a segunda via do boleto referente a 20 reais. Muito obrigado.
+331,Dra. Bárbara da Paz,197.846.230-13,PF,MS,chat,1,9,20.0,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+332,Sra. Laís Castro,087.153.294-88,PF,AC,e-mail,1,0,20.0,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+333,Aurora Camargo,972.046.513-16,PF,PB,chat,3,34,213.57,regular,Média,"Gostaria de negociar o valor de 213.57 reais em atraso. Por favor, me ajudem."
+334,João Martins,012.697.438-13,PF,PA,app,5,7,202.75,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+335,Srta. Aylla Teixeira,092.561.743-16,PF,RN,telefone,3,25,415.1,bom,Média,Tenho uma proposta de pagamento parcelado.
+336,Caleb Freitas,52.136.987/0001-70,PF,RR,chat,1,22,269.6,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+337,Mariah Rezende,219.560.843-98,PF,RJ,app,1,27,348.04,ruim,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+338,Maysa Cirino,965.401.387-84,PF,PA,e-mail,4,4,259.01,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+339,Ana Clara Azevedo,450.869.123-42,PF,PE,app,2,23,450.48,regular,Média,"Gostaria de negociar o valor de 450.48 reais em atraso. Por favor, me ajudem."
+340,Aylla Lopes,375.869.120-68,PJ,AC,whatsapp,4,1,437.27,regular,Média,Gostaria de negociar o valor de 437.27 reais em atraso.
+341,Eduarda Montenegro,79.203.815/0001-28,PJ,GO,e-mail,2,5,194.25,ruim,Baixa,Qual é o meu débito atual? Muito obrigado.
+342,Thiago Câmara,869.710.352-59,PJ,AP,chat,1,0,296.97,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+343,Melissa Dias,170.835.624-07,PF,TO,app,1,35,49.72,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+344,Kevin Moraes,837.260.195-02,PF,PI,whatsapp,1,13,117.64,regular,Baixa,Solicito a segunda via do boleto referente a 117.64 reais. Aguardo retorno.
+345,Olívia Silva,571.098.642-94,PF,TO,chat,1,3,171.1,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+346,Lavínia Novaes,851.073.924-23,PJ,AM,e-mail,1,18,189.71,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+347,Gael Henrique Correia,16.379.205/0001-60,PF,AL,chat,5,0,187.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+348,Camila Vargas,792.304.581-04,PF,TO,e-mail,2,1,125.95,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+349,Rafaela Moraes,298.034.751-50,PF,PA,whatsapp,4,5,224.5,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+350,Isadora da Mota,65.431.892/0001-20,PJ,RR,telefone,1,4,165.15,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+351,Dra. Letícia Sampaio,853.164.279-55,PF,RO,telefone,4,6,238.58,bom,Baixa,Solicito a segunda via do boleto referente a 238.58 reais. Aguardo retorno.
+352,Felipe Montenegro,851.624.397-46,PF,RO,whatsapp,2,0,210.4,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+353,Dra. Laura Lima,081.937.625-68,PJ,DF,telefone,5,1,51.7,bom,Baixa,Solicito a segunda via do boleto referente a 51.7 reais. Aguardo retorno.
+354,Enrico da Paz,420.581.796-76,PF,AM,chat,5,6,190.85,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+355,Heloisa Souza,86.345.201/0001-46,PF,MG,e-mail,4,19,257.95,bom,Média,Gostaria de negociar o valor de 257.95 reais em atraso. Aguardo retorno.
+356,Luara Novaes,094.173.625-34,PJ,SP,chat,3,18,95.29,regular,Baixa,Solicito a segunda via do boleto referente a 95.29 reais.
+357,Ísis Sousa,938.271.056-68,PF,SC,e-mail,4,7,189.07,bom,Baixa,Qual é o meu débito atual?
+358,Bárbara Garcia,064.721.853-44,PF,AC,whatsapp,4,5,154.56,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+359,Dr. Eduardo Aparecida,250.684.913-06,PF,AP,e-mail,5,29,20.0,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+360,Sra. Valentina Câmara,281.647.395-37,PF,AP,chat,1,22,204.42,bom,Baixa,"Solicito a segunda via do boleto referente a 204.42 reais. Por favor, me ajudem."
+361,Sr. Heitor Ribeiro,59.821.436/0001-94,PF,TO,telefone,1,45,182.22,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+362,Alexia Camargo,573.946.108-10,PF,MG,telefone,3,1,129.0,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+363,Matheus da Cunha,840.926.317-31,PF,MA,whatsapp,1,62,285.07,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+364,Evelyn Duarte,81.974.502/0001-15,PF,AP,telefone,3,0,41.44,regular,Baixa,Solicito a segunda via do boleto referente a 41.44 reais. Estou aguardando uma resposta.
+365,Heitor Rodrigues,613.457.029-06,PF,AC,e-mail,4,12,193.15,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+366,Luísa Andrade,190.824.753-32,PF,GO,telefone,3,12,223.35,ruim,Baixa,Qual é o meu débito atual?
+367,Maria Julia Machado,695.038.427-00,PF,SP,e-mail,3,6,162.61,regular,Baixa,Solicito a segunda via do boleto referente a 162.61 reais. Estou aguardando uma resposta.
+368,Dra. Ana Clara Sampaio,159.286.074-58,PF,MG,app,3,1,149.32,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+369,Ana Melo,283.157.940-60,PJ,MA,app,3,12,71.93,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+370,Maria Fernanda Albuquerque,892.065.374-74,PF,MA,whatsapp,2,9,285.68,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+371,Luiz Felipe Cunha,682.195.703-77,PJ,CE,app,5,30,174.42,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+372,Ana Júlia Sá,871.250.643-53,PF,SC,chat,2,1,177.48,regular,Baixa,Qual é o meu débito atual?
+373,Raquel Farias,523.084.671-26,PF,PR,chat,4,40,215.47,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+374,Luísa Pimenta,425.683.109-60,PF,ES,whatsapp,5,39,197.71,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+375,Pedro Henrique da Mota,529.367.814-00,PF,PI,whatsapp,1,0,167.48,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+376,Erick Ramos,914.687.530-10,PF,SC,whatsapp,5,2,263.21,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+377,Antony Montenegro,063.942.758-83,PF,MS,e-mail,5,31,227.7,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+378,Heloisa Vargas,942.385.017-05,PF,PE,app,4,16,145.37,bom,Baixa,"Solicito a segunda via do boleto referente a 145.37 reais. Por favor, me ajudem."
+379,Isaque Pimenta,289.315.476-09,PF,MS,whatsapp,5,1,46.98,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+380,Henry Teixeira,731.269.058-03,PF,PE,e-mail,2,75,28.16,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+381,Dr. Ravy Marques,095.874.231-60,PF,RJ,whatsapp,5,3,316.93,bom,Média,Tenho uma proposta de pagamento parcelado.
+382,Emanuella Garcia,651.423.789-46,PF,MS,chat,5,25,20.0,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+383,Dr. Rodrigo Pereira,082.315.974-41,PJ,DF,e-mail,5,1,153.41,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+384,Francisco Castro,513.720.698-95,PF,PR,chat,3,38,87.12,ruim,Média,"Gostaria de negociar o valor de 87.12 reais em atraso. Por favor, me ajudem."
+385,Enrico Ramos,603.814.592-33,PF,RJ,e-mail,1,6,164.2,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+386,Benjamin Cavalcante,426.970.853-00,PF,PB,e-mail,5,14,20.0,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+387,Olivia Mendes,236.417.598-46,PF,CE,telefone,1,76,148.4,regular,Média,Gostaria de negociar o valor de 148.4 reais em atraso. Muito obrigado.
+388,Dra. Manuela Marques,913.768.052-86,PJ,PE,app,3,43,200.87,regular,Média,Gostaria de negociar o valor de 200.87 reais em atraso. Aguardo retorno.
+389,Mariah Cassiano,912.345.076-25,PF,AP,e-mail,2,23,208.47,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+390,Caroline Pereira,806.432.971-03,PF,ES,chat,1,23,20.0,bom,Baixa,Solicito a segunda via do boleto referente a 20 reais. Estou aguardando uma resposta.
+391,Maria Helena Ferreira,916.823.704-96,PF,RN,whatsapp,1,53,133.05,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+392,Maria Luísa da Cunha,308.467.519-84,PF,RR,app,5,16,77.22,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+393,Dr. Luiz Miguel Caldeira,264.973.851-00,PF,RO,telefone,3,42,159.34,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+394,Gabrielly Jesus,897.124.365-19,PJ,RJ,whatsapp,3,26,71.3,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+395,Dr. Davi Miguel Ribeiro,13.765.908/0001-38,PF,PE,chat,1,28,199.33,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+396,Maitê Novaes,902.358.461-98,PF,RN,app,4,13,166.54,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+397,Aurora Azevedo,435.096.812-15,PF,RR,telefone,5,4,93.39,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+398,Ana Laura Vasconcelos,27.801.496/0001-59,PF,AL,e-mail,4,5,152.89,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+399,Sophia Moreira,320.817.549-32,PJ,SP,telefone,1,14,91.63,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+400,Maria Rios,693.405.821-60,PF,SC,whatsapp,1,2,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+401,Marcela Ferreira,438.769.015-10,PF,PA,whatsapp,2,64,352.92,bom,Média,Preciso de condições melhores para quitar minha dívida.
+402,Bianca Novais,18.420.763/0001-57,PJ,TO,app,5,14,193.77,regular,Baixa,Qual é o meu débito atual?
+403,Isis Sales,769.812.345-64,PF,RJ,e-mail,3,4,250.59,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+404,Rodrigo Camargo,41.658.729/0001-37,PF,MS,app,5,15,328.48,ruim,Média,Gostaria de negociar o valor de 328.48 reais em atraso. Muito obrigado.
+405,Zoe Albuquerque,439.082.675-10,PF,PR,e-mail,5,10,327.95,ruim,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+406,Dr. Henrique Oliveira,423.751.980-50,PF,GO,whatsapp,5,41,79.71,ruim,Média,"Gostaria de negociar o valor de 79.71 reais em atraso. Por favor, me ajudem."
+407,Ian Costa,352.608.471-80,PJ,RN,whatsapp,1,27,227.7,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+408,Vitor Hugo Aparecida,75.834.260/0001-61,PF,SP,e-mail,3,19,363.53,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+409,Lara Gonçalves,320.495.781-05,PF,MG,whatsapp,1,16,338.58,bom,Média,"Gostaria de negociar o valor de 338.58 reais em atraso. Por favor, me ajudem."
+410,Emanuella Marques,18.725.046/0001-33,PF,DF,telefone,3,5,41.42,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+411,Beatriz Duarte,542.871.963-09,PF,MS,telefone,5,0,102.84,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+412,Theo Lima,36.529.870/0001-08,PF,RJ,chat,3,0,20.0,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+413,Ian Brito,436.781.920-50,PF,PR,app,1,85,145.62,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+414,Felipe Leão,725.638.490-47,PJ,MG,whatsapp,3,3,403.98,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+415,Enrico Araújo,347.650.921-43,PF,GO,telefone,2,18,65.69,bom,Baixa,"Solicito a segunda via do boleto referente a 65.69 reais. Por favor, me ajudem."
+416,Dr. José Miguel Ferreira,061.254.789-20,PF,SP,chat,3,25,366.09,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+417,Luiz Gustavo Duarte,879.034.216-03,PF,CE,telefone,2,0,189.03,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+418,Maitê Leão,961.072.534-16,PF,RS,e-mail,4,91,142.36,regular,Alta,"O serviço foi cortado, preciso resolver imediatamente! Por favor, me ajudem."
+419,João Felipe Pereira,647.928.310-40,PF,CE,chat,4,43,112.03,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+420,Davi Lucas Siqueira,341.769.082-03,PF,PR,whatsapp,1,14,176.09,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+421,Ana Júlia Alves,681.024.793-96,PJ,MA,e-mail,4,101,129.54,regular,Alta,"O serviço foi cortado, preciso resolver imediatamente! Muito obrigado."
+422,Josué Sousa,47.219.603/0001-42,PF,RO,app,1,16,115.41,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+423,Dr. Renan Martins,847.159.623-73,PF,RS,telefone,2,8,20.0,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+424,Dra. Maya Moura,845.391.072-32,PF,MS,whatsapp,5,26,199.23,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+425,Joana Cassiano,408.912.657-67,PJ,RR,telefone,4,3,261.28,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+426,Pietra da Rosa,064.719.285-30,PF,PI,whatsapp,2,2,240.24,bom,Baixa,Solicito a segunda via do boleto referente a 240.24 reais. Estou aguardando uma resposta.
+427,Maria Laura da Cruz,26.819.035/0001-40,PF,ES,chat,3,11,309.91,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+428,Júlia da Paz,846.107.935-39,PF,RS,e-mail,3,39,42.3,bom,Média,Gostaria de negociar o valor de 42.3 reais em atraso.
+429,Milena da Mata,973.201.568-30,PJ,CE,telefone,1,12,360.07,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+430,João Miguel da Mata,270.186.543-35,PF,MT,e-mail,1,34,36.13,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+431,Luana Viana,759.802.634-38,PF,GO,chat,5,10,105.55,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+432,Ana Sophia Nogueira,723.689.045-65,PF,MG,e-mail,5,34,207.56,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+433,Isadora Sousa,037.594.182-79,PJ,RO,chat,1,20,154.19,regular,Baixa,Solicito a segunda via do boleto referente a 154.19 reais.
+434,Lorenzo Castro,081.236.759-68,PF,RO,telefone,1,3,243.03,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+435,Daniel da Costa,650.124.793-43,PF,AC,telefone,5,16,249.37,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+436,Renan Sales,925.601.437-80,PJ,RO,app,5,0,111.63,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+437,Maitê Teixeira,095.714.836-48,PF,ES,whatsapp,5,7,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais. Aguardo retorno.
+438,Dr. Pedro Lucas Siqueira,30.625.178/0001-99,PF,PR,e-mail,5,22,86.7,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+439,Sra. Laís Nogueira,732.495.810-97,PF,AP,chat,4,9,160.38,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+440,Daniela Machado,49.530.862/0001-15,PF,CE,e-mail,5,34,173.2,bom,Média,Quero entender as opções para regularizar meu débito.
+441,Luiz Otávio Vasconcelos,93.570.486/0001-84,PF,PE,whatsapp,1,15,284.03,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+442,Sara Vargas,824.936.057-56,PJ,AL,telefone,4,32,229.26,bom,Média,Tenho uma proposta de pagamento parcelado.
+443,Felipe Andrade,31.780.592/0001-35,PF,PR,e-mail,1,6,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais.
+444,Jade Aragão,531.078.694-57,PF,MS,app,2,9,171.46,bom,Baixa,Solicito a segunda via do boleto referente a 171.46 reais.
+445,Maria Vitória Freitas,049.572.638-92,PJ,AM,whatsapp,3,37,246.45,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+446,Srta. Yasmin Gomes,398.451.720-32,PF,SP,e-mail,5,48,465.67,bom,Média,Preciso de condições melhores para quitar minha dívida.
+447,Maria Alice Rocha,761.984.325-64,PF,RO,e-mail,5,56,225.8,regular,Média,Gostaria de negociar o valor de 225.8 reais em atraso. Aguardo retorno.
+448,Vitor Peixoto,758.429.361-19,PF,TO,e-mail,4,34,301.3,bom,Média,Gostaria de negociar o valor de 301.3 reais em atraso.
+449,Sra. Isabella Nunes,836.742.519-73,PF,MG,telefone,2,0,37.95,bom,Baixa,"Solicito a segunda via do boleto referente a 37.95 reais. Por favor, me ajudem."
+450,Arthur Gabriel da Paz,902.786.153-68,PF,AC,e-mail,2,52,270.01,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+451,Sra. Sophia Novais,921.038.765-12,PF,MS,e-mail,5,23,227.8,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+452,Isadora da Conceição,491.836.720-87,PJ,SC,e-mail,3,10,220.13,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+453,Dr. Erick Mendonça,914.057.362-16,PF,SP,app,5,3,322.17,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+454,Dr. Pedro Henrique Leão,130.568.794-93,PF,MT,e-mail,1,8,96.1,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+455,Clarice Duarte,832.059.476-65,PF,ES,chat,5,35,315.77,regular,Média,Gostaria de negociar o valor de 315.77 reais em atraso. Muito obrigado.
+456,Lavínia Viana,628.703.591-95,PJ,GO,e-mail,3,27,335.72,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+457,Murilo Montenegro,628.341.950-05,PF,PI,whatsapp,2,15,45.42,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+458,Valentina da Cruz,31.469.205/0001-44,PF,RO,app,4,19,199.75,bom,Baixa,Solicito a segunda via do boleto referente a 199.75 reais. Muito obrigado.
+459,Mariana Fonseca,539.240.671-80,PF,RN,e-mail,2,36,204.11,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+460,Clara Macedo,038.521.976-86,PJ,ES,app,4,1,231.79,regular,Baixa,Solicito a segunda via do boleto referente a 231.79 reais. Aguardo retorno.
+461,Clara da Paz,051.238.974-88,PF,SC,whatsapp,2,8,212.76,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+462,Hadassa Costela,89.473.612/0001-05,PJ,RR,app,5,6,397.07,bom,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+463,Allana Garcia,980.217.645-11,PF,AL,chat,5,21,49.69,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+464,Alexia Azevedo,645.907.231-07,PF,ES,whatsapp,5,0,121.79,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+465,Sophia Santos,157.648.032-17,PJ,PE,app,1,13,206.74,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+466,Alícia Aparecida,384.295.107-88,PF,RO,e-mail,1,40,145.25,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+467,Dr. Kevin da Costa,84.052.376/0001-30,PF,GO,e-mail,2,61,153.21,ruim,Média,"Gostaria de negociar o valor de 153.21 reais em atraso. Por favor, me ajudem."
+468,Dom Fernandes,621.534.790-61,PF,RJ,telefone,4,1,167.3,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+469,Paulo das Neves,957.418.620-20,PF,BA,chat,4,4,208.34,bom,Baixa,"Solicito a segunda via do boleto referente a 208.34 reais. Por favor, me ajudem."
+470,Vinicius Carvalho,628.704.531-08,PJ,TO,telefone,1,25,51.85,bom,Baixa,Solicito a segunda via do boleto referente a 51.85 reais.
+471,Arthur Teixeira,568.237.104-62,PF,BA,whatsapp,1,41,248.61,regular,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+472,Apollo Teixeira,943.815.067-66,PF,RR,e-mail,5,24,156.78,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+473,Catarina Montenegro,975.138.402-88,PF,DF,app,1,11,144.07,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+474,Arthur Gabriel Jesus,046.157.892-11,PF,PB,chat,4,46,318.24,bom,Média,"Gostaria de negociar o valor de 318.24 reais em atraso. Por favor, me ajudem."
+475,Rebeca Sales,57.386.092/0001-07,PJ,MT,app,2,2,71.64,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+476,Zoe Moura,081.369.725-59,PF,SC,e-mail,2,7,302.52,bom,Média,Gostaria de negociar o valor de 302.52 reais em atraso. Estou aguardando uma resposta.
+477,Mathias Moreira,034.862.719-03,PF,PA,chat,3,10,327.79,regular,Média,Tenho uma proposta de pagamento parcelado.
+478,Benjamim Sales,827.653.094-00,PF,CE,e-mail,5,3,194.2,regular,Baixa,Solicito a segunda via do boleto referente a 194.2 reais.
+479,Ísis Carvalho,695.301.827-59,PJ,PB,e-mail,4,118,105.09,bom,Alta,"Não consigo pagar desde 118 dias, perdi meu emprego. Por favor, me ajudem."
+480,José Duarte,218.053.967-30,PF,SC,whatsapp,2,22,40.78,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+481,Eduarda Garcia,860.912.574-20,PF,CE,app,5,20,81.65,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+482,Srta. Mariah das Neves,479.510.682-76,PF,RN,chat,4,68,94.75,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+483,Anthony Gabriel Marques,790.431.625-07,PF,PB,e-mail,4,3,20.0,ruim,Baixa,Solicito a segunda via do boleto referente a 20 reais.
+484,Melina Barros,903.426.185-98,PF,BA,whatsapp,5,26,193.09,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+485,Luiz Fernando Andrade,204.985.713-60,PF,CE,telefone,1,29,87.8,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+486,Larissa Pimenta,982.354.706-83,PJ,SP,chat,2,2,196.37,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+487,Lorenzo Freitas,619.740.285-85,PF,AM,app,2,5,225.14,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+488,Sra. Luísa Moura,683.514.072-08,PF,PR,telefone,5,15,71.16,regular,Baixa,Solicito a segunda via do boleto referente a 71.16 reais.
+489,Dra. Laura Lima,954.768.201-67,PJ,PE,telefone,4,26,417.4,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+490,Dra. Sara Monteiro,234.105.768-35,PF,SC,whatsapp,4,18,201.97,ruim,Baixa,Solicito a segunda via do boleto referente a 201.97 reais. Estou aguardando uma resposta.
+491,Oliver Jesus,058.471.923-04,PF,RR,telefone,3,22,218.26,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+492,José Miguel Vieira,148.762.039-03,PJ,MT,app,1,16,158.05,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+493,Ana Cavalcanti,358.796.024-00,PJ,PR,chat,4,11,141.4,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+494,Raul Nascimento,57.690.423/0001-06,PF,SC,e-mail,4,7,119.31,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+495,Luara Novais,803.452.697-56,PJ,GO,whatsapp,2,39,334.6,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+496,Lucca Garcia,826.140.937-69,PJ,RR,telefone,5,18,269.13,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+497,João Gabriel Jesus,17.328.694/0001-93,PJ,MA,e-mail,2,16,193.95,bom,Baixa,Solicito a segunda via do boleto referente a 193.95 reais. Estou aguardando uma resposta.
+498,Daniel Freitas,031.849.625-98,PJ,DF,chat,4,7,326.28,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+499,Dr. Vinicius das Neves,521.647.980-58,PJ,PB,whatsapp,4,14,255.96,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+500,Stephany Camargo,04.958.721/0001-60,PF,AL,app,1,3,159.65,ruim,Baixa,Solicito a segunda via do boleto referente a 159.65 reais. Aguardo retorno.
+501,Vicente Vargas,409.512.683-33,PF,GO,app,4,5,235.63,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+502,Luiza Vargas,714.862.039-22,PJ,DF,telefone,4,4,170.07,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+503,Marcela Novaes,542.978.106-11,PF,MA,e-mail,1,9,182.13,regular,Baixa,Solicito a segunda via do boleto referente a 182.13 reais. Estou aguardando uma resposta.
+504,Maitê Nogueira,70.283.641/0001-86,PF,AL,whatsapp,4,13,220.7,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+505,Paulo Gonçalves,275.961.043-80,PF,AP,e-mail,3,1,20.61,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+506,Sra. Aylla Marques,478.165.293-09,PF,CE,whatsapp,4,5,50.43,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+507,Dra. Luísa Viana,578.063.912-40,PF,PB,e-mail,4,2,42.6,bom,Baixa,"Solicito a segunda via do boleto referente a 42.6 reais. Por favor, me ajudem."
+508,João Miguel Vargas,521.390.864-06,PF,SE,whatsapp,2,10,164.7,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+509,Vitor Martins,693.418.572-28,PF,AP,app,5,9,189.97,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+510,Sr. Pedro Viana,653.180.749-01,PJ,MT,e-mail,4,25,20.0,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+511,Aylla Macedo,246.087.319-04,PF,RS,app,1,3,494.39,regular,Média,Gostaria de negociar o valor de 494.39 reais em atraso. Muito obrigado.
+512,Ana Liz Borges,320.615.984-98,PF,MG,e-mail,4,38,245.93,ruim,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+513,Melissa Costa,354.782.961-55,PF,AP,telefone,1,21,241.97,regular,Baixa,Solicito a segunda via do boleto referente a 241.97 reais. Aguardo retorno.
+514,Alexia Pimenta,862.970.534-56,PF,AC,whatsapp,1,31,76.61,bom,Média,Gostaria de negociar o valor de 76.61 reais em atraso. Estou aguardando uma resposta.
+515,Dra. Maria Alice Camargo,403.759.621-07,PF,RR,app,3,9,42.56,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+516,Maria Luiza Garcia,683.517.904-00,PF,TO,telefone,1,13,346.48,ruim,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+517,Dr. Eduardo da Paz,290.756.183-95,PF,RO,telefone,3,5,188.04,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+518,Catarina Barros,267.854.390-00,PJ,PB,app,5,3,277.49,regular,Média,Gostaria de negociar o valor de 277.49 reais em atraso. Muito obrigado.
+519,Mariana Novaes,765.183.029-68,PF,SC,telefone,4,1,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+520,Theodoro da Mata,68.509.432/0001-66,PF,MS,whatsapp,2,0,112.94,bom,Baixa,Solicito a segunda via do boleto referente a 112.94 reais. Estou aguardando uma resposta.
+521,Rodrigo Sales,124.370.569-80,PJ,RS,chat,2,6,321.79,bom,Média,Gostaria de negociar o valor de 321.79 reais em atraso. Estou aguardando uma resposta.
+522,Dra. Ana Vitória Rodrigues,84.029.731/0001-50,PF,PE,app,5,15,197.65,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+523,Luísa Leão,548.107.236-07,PJ,AL,chat,4,43,182.82,regular,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+524,Olívia Pacheco,204.657.819-85,PF,AP,whatsapp,5,30,207.75,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+525,Thiago Barbosa,492.875.603-74,PF,RN,chat,3,12,293.1,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+526,Dom Ribeiro,752.981.306-40,PJ,MT,app,1,3,42.87,bom,Baixa,Solicito a segunda via do boleto referente a 42.87 reais. Muito obrigado.
+527,Diogo Peixoto,276.831.590-77,PF,DF,chat,3,21,258.27,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+528,Manuella Aragão,41.083.596/0001-18,PF,PR,chat,2,10,275.62,regular,Média,Gostaria de negociar o valor de 275.62 reais em atraso.
+529,Dra. Isabel Garcia,674.183.092-87,PF,MG,whatsapp,5,3,295.29,regular,Média,"Gostaria de negociar o valor de 295.29 reais em atraso. Por favor, me ajudem."
+530,Luara Moura,015.634.287-17,PJ,GO,e-mail,2,11,347.03,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+531,José Miguel Rezende,967.851.423-00,PF,RO,app,4,24,334.2,regular,Média,Gostaria de negociar o valor de 334.2 reais em atraso. Aguardo retorno.
+532,Srta. Luara Novaes,091.836.427-22,PJ,MS,whatsapp,1,70,216.33,ruim,Média,Tenho uma proposta de pagamento parcelado.
+533,João Miguel da Cunha,308.475.126-90,PF,RR,telefone,5,23,148.37,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+534,Caio Pereira,269.051.743-43,PF,RO,e-mail,1,3,314.91,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+535,Rafael da Mota,654.102.897-49,PF,MT,e-mail,3,11,511.51,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+536,José Pedro da Luz,271.384.605-62,PF,AM,chat,1,8,179.38,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+537,Vitor Hugo Vargas,631.852.094-51,PF,AP,e-mail,1,15,100.98,ruim,Baixa,Solicito a segunda via do boleto referente a 100.98 reais. Muito obrigado.
+538,Isis Vasconcelos,70.915.842/0001-59,PF,MG,app,5,18,32.23,bom,Baixa,"Solicito a segunda via do boleto referente a 32.23 reais. Por favor, me ajudem."
+539,Dom Sampaio,560.493.812-24,PJ,SC,telefone,5,43,295.44,bom,Média,Quero entender as opções para regularizar meu débito.
+540,Vitor Hugo Câmara,067.945.213-34,PF,MG,e-mail,5,2,297.94,regular,Média,Quero entender as opções para regularizar meu débito.
+541,Caleb Fonseca,851.632.704-35,PF,MG,telefone,3,31,301.38,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+542,Esther da Rosa,615.309.872-02,PJ,DF,e-mail,4,47,238.07,bom,Média,Preciso de condições melhores para quitar minha dívida.
+543,Isaque Mendonça,614.379.058-20,PF,AL,whatsapp,2,2,289.02,regular,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+544,Sr. Nathan Campos,387.541.602-35,PJ,SC,whatsapp,5,0,218.64,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+545,Samuel Rezende,079.156.832-68,PJ,MA,app,1,0,38.75,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+546,Rafael Pimenta,218.034.769-31,PF,PA,chat,5,1,313.97,regular,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+547,Dr. Luan Campos,98.271.053/0001-41,PF,AP,app,1,36,273.24,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+548,João Guilherme Casa Grande,62.541.378/0001-50,PF,AL,app,4,17,340.87,ruim,Média,Gostaria de negociar o valor de 340.87 reais em atraso. Aguardo retorno.
+549,Carlos Eduardo Vieira,962.038.457-10,PF,AP,telefone,1,41,206.05,regular,Média,Gostaria de negociar o valor de 206.05 reais em atraso.
+550,Dra. Larissa Leão,723.158.960-02,PF,CE,app,5,7,418.58,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+551,Ana Carolina Peixoto,271.596.304-16,PF,DF,e-mail,5,19,244.98,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+552,Vinícius Brito,953.781.206-59,PJ,AM,telefone,1,2,513.79,bom,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+553,Renan Monteiro,290.758.461-85,PJ,GO,chat,2,2,341.03,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+554,Dr. Augusto Caldeira,082.193.547-04,PF,SC,whatsapp,5,15,180.21,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+555,Lunna Leão,35.960.218/0001-72,PF,ES,telefone,4,28,195.06,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+556,Sra. Gabriela Garcia,317.490.562-16,PF,RN,e-mail,5,2,139.57,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+557,Emanuelly Gomes,527.918.406-30,PJ,BA,app,1,17,235.99,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+558,Bento da Mota,217.368.904-50,PF,RN,chat,5,15,212.31,ruim,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+559,Enzo Gabriel Oliveira,831.946.725-09,PJ,TO,e-mail,5,14,250.56,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+560,Lara Albuquerque,638.274.190-69,PF,RJ,app,1,45,119.1,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+561,Oliver Aparecida,07.934.652/0001-42,PF,TO,app,4,120,265.52,bom,Alta,"O serviço foi cortado, preciso resolver imediatamente!"
+562,Rael Monteiro,310.569.874-48,PF,MA,telefone,2,25,219.31,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+563,Caleb Almeida,742.538.019-60,PF,SP,app,3,7,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+564,Nathan Cirino,570.698.321-68,PF,PE,chat,3,5,173.12,bom,Baixa,Qual é o meu débito atual?
+565,Juan Lima,483.650.279-92,PF,PE,telefone,2,19,87.5,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+566,Maria Clara Aragão,165.340.297-07,PJ,RS,e-mail,1,29,142.43,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+567,Ana Lívia Novais,325.140.987-50,PF,SP,telefone,3,2,194.19,regular,Baixa,Solicito a segunda via do boleto referente a 194.19 reais. Aguardo retorno.
+568,Srta. Luna Fogaça,486.205.713-62,PF,PR,e-mail,2,1,223.19,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+569,Valentina Campos,784.392.061-78,PJ,AP,telefone,5,11,20.0,bom,Baixa,Solicito a segunda via do boleto referente a 20 reais.
+570,Matteo Cavalcanti,418.720.639-69,PF,DF,app,3,30,326.97,ruim,Média,Gostaria de negociar o valor de 326.97 reais em atraso.
+571,Alícia da Rocha,682.379.450-00,PF,MA,whatsapp,2,2,130.8,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+572,Benício Almeida,38.594.271/0001-95,PJ,RJ,e-mail,1,29,210.68,regular,Baixa,Qual é o meu débito atual?
+573,Vitória Novaes,794.812.530-23,PJ,PR,whatsapp,5,1,80.88,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+574,Dr. Benicio Casa Grande,547.186.203-17,PF,TO,telefone,2,35,230.29,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+575,Dra. Daniela Castro,310.248.956-70,PJ,CE,chat,2,5,659.81,ruim,Alta,"O serviço foi cortado, preciso resolver imediatamente! Aguardo retorno."
+576,Arthur Gabriel Rios,59.273.416/0001-26,PF,MA,e-mail,1,3,246.5,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+577,Apollo Guerra,729.810.635-02,PJ,PR,telefone,4,12,354.4,bom,Média,Tenho uma proposta de pagamento parcelado.
+578,Diogo Nunes,751.830.924-60,PJ,MA,telefone,3,4,236.02,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+579,Murilo Pinto,375.026.184-90,PF,SE,chat,3,18,405.93,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+580,Gael Henrique Almeida,187.560.349-20,PF,MT,app,1,5,20.0,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+581,Sophia Araújo,562.937.810-40,PJ,MA,app,3,8,238.78,ruim,Baixa,Qual é o meu débito atual?
+582,Dr. Leandro Machado,813.576.490-10,PF,SE,chat,5,66,252.67,bom,Média,Gostaria de negociar o valor de 252.67 reais em atraso.
+583,Sra. Maria Vitória Carvalho,912.873.506-40,PF,AP,app,2,9,38.79,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+584,Nicolas Porto,462.938.107-40,PJ,TO,e-mail,4,40,210.63,regular,Média,Gostaria de negociar o valor de 210.63 reais em atraso. Muito obrigado.
+585,Lavínia Novaes,704.692.351-52,PF,ES,e-mail,4,21,86.16,ruim,Baixa,Solicito a segunda via do boleto referente a 86.16 reais.
+586,Alexandre Cassiano,49.705.236/0001-12,PF,PR,whatsapp,3,26,124.19,bom,Baixa,Solicito a segunda via do boleto referente a 124.19 reais. Estou aguardando uma resposta.
+587,Dra. Isabelly Alves,147.082.359-41,PF,GO,telefone,3,11,37.23,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+588,Olívia Sales,150.629.734-06,PF,PB,telefone,5,12,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+589,Srta. Maria Alice Castro,045.372.918-50,PJ,PE,app,3,39,185.12,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+590,Ana Vitória Moraes,321.476.859-09,PF,GO,telefone,4,33,108.31,regular,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+591,Maria Cecília Brito,852.014.793-32,PF,PA,whatsapp,3,4,38.63,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+592,Sr. Cauã Cunha,28.361.405/0001-74,PF,PB,chat,3,13,146.87,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+593,Danilo Cardoso,075.286.134-44,PF,CE,e-mail,5,26,174.31,ruim,Baixa,Solicito a segunda via do boleto referente a 174.31 reais. Muito obrigado.
+594,Sra. Ana Souza,132.659.480-05,PF,DF,chat,1,12,45.59,regular,Baixa,Solicito a segunda via do boleto referente a 45.59 reais.
+595,Bruno Lima,190.635.742-07,PF,AL,chat,3,5,162.86,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+596,Sophie Pastor,071.295.634-43,PF,SP,chat,4,122,152.04,bom,Alta,"Minha situação financeira está complicada, estou devendo 152.04 reais. Estou aguardando uma resposta."
+597,Davi Pereira,392.570.481-79,PF,RJ,e-mail,4,2,20.0,ruim,Baixa,"Solicito a segunda via do boleto referente a 20 reais. Por favor, me ajudem."
+598,Dr. Enrico Montenegro,931.046.725-80,PF,MA,whatsapp,2,2,189.35,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+599,Vitor Gabriel Abreu,137.254.980-32,PJ,CE,whatsapp,2,8,55.07,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+600,Dr. Otávio Cunha,836.027.945-47,PJ,PR,telefone,3,19,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+601,Dr. Asafe Barros,571.326.948-55,PF,ES,whatsapp,5,45,170.06,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+602,Maria Luísa da Rocha,631.982.705-02,PF,RO,whatsapp,2,17,461.38,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+603,Miguel Macedo,819.735.024-88,PJ,AP,e-mail,5,19,166.25,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+604,Sr. Lucca Costa,961.735.248-64,PJ,SP,whatsapp,3,2,253.22,ruim,Média,"Gostaria de negociar o valor de 253.22 reais em atraso. Por favor, me ajudem."
+605,Maria Liz Fogaça,769.421.305-16,PF,GO,telefone,4,3,176.14,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+606,Sara da Conceição,201.586.394-05,PF,CE,telefone,2,0,192.25,regular,Baixa,Solicito a segunda via do boleto referente a 192.25 reais. Estou aguardando uma resposta.
+607,Lunna Cassiano,418.593.607-93,PF,RO,telefone,3,10,62.74,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+608,Rebeca Montenegro,485.697.031-39,PF,AM,app,1,18,200.78,bom,Baixa,"Solicito a segunda via do boleto referente a 200.78 reais. Por favor, me ajudem."
+609,Milena Dias,678.091.235-21,PF,PR,telefone,2,10,350.77,bom,Média,Gostaria de negociar o valor de 350.77 reais em atraso. Muito obrigado.
+610,Catarina das Neves,671.453.980-01,PF,PE,chat,3,0,143.94,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+611,Matteo da Luz,765.829.034-38,PF,BA,whatsapp,4,11,181.65,bom,Baixa,Solicito a segunda via do boleto referente a 181.65 reais. Estou aguardando uma resposta.
+612,Dr. Apollo Teixeira,561.329.870-02,PF,RO,app,4,35,86.5,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+613,Josué da Costa,418.620.593-06,PF,PI,whatsapp,3,9,183.17,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+614,Sr. Raul Ribeiro,689.203.517-59,PF,RJ,whatsapp,4,5,165.61,ruim,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+615,Luna Oliveira,179.568.243-46,PJ,CE,telefone,1,9,255.69,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+616,Letícia Fonseca,637.504.182-17,PJ,AL,e-mail,5,1,181.49,bom,Baixa,Solicito a segunda via do boleto referente a 181.49 reais. Aguardo retorno.
+617,Murilo Câmara,918.425.067-49,PF,PA,telefone,1,0,53.83,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+618,Luiz Felipe Vieira,148.357.209-97,PF,MG,chat,4,23,205.93,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+619,Théo Marques,820.564.193-51,PJ,DF,chat,2,30,232.04,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+620,Nina da Mata,860.412.379-22,PJ,BA,whatsapp,5,9,275.73,ruim,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+621,Dra. Letícia Lopes,651.873.290-30,PJ,GO,app,1,8,125.47,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+622,Isabela Guerra,312.806.749-03,PF,PI,chat,2,1,203.06,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+623,Mariana Ramos,032.719.654-80,PJ,RS,app,5,29,256.79,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+624,Ryan Viana,091.246.875-02,PJ,RO,chat,3,1,263.69,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+625,Ayla Gonçalves,231.456.097-34,PF,PR,whatsapp,4,12,74.15,bom,Baixa,Solicito a segunda via do boleto referente a 74.15 reais. Estou aguardando uma resposta.
+626,Isaac Peixoto,15.864.397/0001-37,PF,DF,app,5,37,118.62,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+627,Cauê Cavalcanti,347.928.015-32,PF,RR,telefone,1,17,115.36,bom,Baixa,Solicito a segunda via do boleto referente a 115.36 reais. Muito obrigado.
+628,Liam Nogueira,673.219.845-91,PF,TO,e-mail,1,1,169.84,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+629,Antônio Ramos,908.561.234-98,PJ,MA,telefone,1,15,151.74,bom,Baixa,Solicito a segunda via do boleto referente a 151.74 reais. Estou aguardando uma resposta.
+630,Maria Cecília Rodrigues,183.675.092-77,PF,MA,telefone,1,25,274.15,regular,Média,Gostaria de negociar o valor de 274.15 reais em atraso. Muito obrigado.
+631,Isaac da Rosa,327.589.014-04,PF,TO,chat,5,4,320.88,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+632,Olivia Sousa,659.701.238-03,PJ,MS,app,5,6,298.38,ruim,Média,"Gostaria de negociar o valor de 298.38 reais em atraso. Por favor, me ajudem."
+633,Lunna Marques,092.531.846-98,PF,RS,app,5,10,232.87,bom,Baixa,Solicito a segunda via do boleto referente a 232.87 reais.
+634,Levi Oliveira,192.846.357-64,PJ,PR,telefone,2,5,144.25,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+635,Srta. Joana Cavalcanti,954.103.286-98,PF,MG,e-mail,2,43,253.71,bom,Média,Tenho uma proposta de pagamento parcelado.
+636,Heloisa Almeida,08.397.125/0001-09,PJ,CE,chat,3,53,163.75,ruim,Média,Tenho uma proposta de pagamento parcelado.
+637,Murilo Pinto,642.071.938-04,PF,SP,telefone,2,6,125.77,bom,Baixa,Solicito a segunda via do boleto referente a 125.77 reais.
+638,Sabrina Campos,398.625.710-12,PJ,PA,app,5,4,206.76,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+639,Henrique da Paz,362.910.754-07,PJ,RN,e-mail,4,22,90.08,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+640,Isadora Freitas,971.038.254-32,PF,RO,app,3,17,225.15,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+641,Matheus Santos,641.089.573-93,PF,PR,app,2,45,20.0,regular,Média,Gostaria de negociar o valor de 20 reais em atraso. Aguardo retorno.
+642,Sr. André da Cunha,864.352.170-17,PJ,RJ,telefone,2,50,293.1,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+643,José Pedro Cavalcante,875.310.269-02,PF,BA,chat,1,13,198.72,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+644,Danilo Dias,027.685.314-80,PF,RN,whatsapp,3,9,180.58,regular,Baixa,Solicito a segunda via do boleto referente a 180.58 reais. Estou aguardando uma resposta.
+645,Valentim Dias,625.731.908-03,PF,BA,whatsapp,4,20,403.99,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+646,Ian Cirino,074.153.896-20,PJ,AL,whatsapp,3,3,179.43,regular,Baixa,Solicito a segunda via do boleto referente a 179.43 reais. Aguardo retorno.
+647,Maria Alice Santos,879.301.546-10,PF,DF,chat,5,13,230.99,regular,Baixa,Solicito a segunda via do boleto referente a 230.99 reais. Estou aguardando uma resposta.
+648,Fernando Cavalcante,843.906.175-75,PF,ES,whatsapp,5,5,20.0,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+649,Aylla Farias,041.328.976-13,PF,AC,app,1,20,249.27,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+650,Raul Santos,794.850.261-02,PJ,MT,chat,1,15,142.55,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+651,Dra. Caroline Cunha,045.697.381-84,PF,GO,whatsapp,3,39,416.21,regular,Média,Quero entender as opções para regularizar meu débito.
+652,Isaque Vargas,610.985.342-98,PF,RS,chat,4,18,20.0,bom,Baixa,Qual é o meu débito atual?
+653,Daniela Campos,476.529.130-80,PJ,TO,e-mail,5,13,423.13,regular,Média,Tenho uma proposta de pagamento parcelado.
+654,Sr. Samuel Machado,674.893.012-03,PF,RN,chat,2,5,291.89,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+655,Pedro Henrique Pires,610.423.857-26,PF,PR,e-mail,3,12,20.0,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+656,Valentina Barros,476.032.185-35,PF,TO,chat,5,31,257.35,bom,Média,Tenho uma proposta de pagamento parcelado.
+657,Vicente Lima,401.896.375-01,PJ,PB,e-mail,2,52,76.61,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+658,Isis Fogaça,41.075.386/0001-88,PF,TO,telefone,1,4,178.05,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+659,Ana Clara Barros,645.873.921-46,PF,MT,telefone,5,8,140.08,bom,Baixa,Solicito a segunda via do boleto referente a 140.08 reais. Muito obrigado.
+660,Heitor Cirino,149.380.576-20,PJ,AC,e-mail,4,45,246.34,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+661,Rhavi Marques,674.892.310-78,PF,BA,app,1,18,259.64,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+662,Anthony Gabriel Correia,103.689.725-77,PF,RS,telefone,1,8,208.38,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+663,Pedro Henrique Pires,831.297.540-32,PF,AM,whatsapp,2,11,89.28,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+664,Eduardo Sousa,798.034.165-10,PF,RJ,telefone,1,0,391.05,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+665,Ana Júlia Farias,016.374.298-78,PF,MG,app,5,20,100.56,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+666,Sophie Pastor,973.504.612-16,PJ,PI,chat,2,15,171.09,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+667,João Felipe Ramos,671.342.958-00,PF,AC,app,2,26,497.44,bom,Média,Tenho uma proposta de pagamento parcelado.
+668,João Pedro Silveira,375.914.826-37,PF,RN,app,4,1,273.21,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+669,Dra. Nina Cardoso,468.752.309-92,PJ,MA,whatsapp,2,3,123.75,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+670,Dra. Aurora Rios,728.164.305-53,PJ,PR,telefone,5,11,186.23,ruim,Baixa,Solicito a segunda via do boleto referente a 186.23 reais. Aguardo retorno.
+671,Isaac Costela,80.926.517/0001-45,PJ,TO,telefone,4,14,268.66,regular,Média,Tenho uma proposta de pagamento parcelado.
+672,Ana Beatriz Azevedo,561.470.932-07,PF,MT,whatsapp,5,12,244.35,bom,Baixa,"Solicito a segunda via do boleto referente a 244.35 reais. Por favor, me ajudem."
+673,Sr. João Felipe Cassiano,810.367.425-71,PF,TO,whatsapp,5,39,161.57,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+674,Ana Cecília Montenegro,12.967.854/0001-20,PF,MA,e-mail,4,0,124.91,bom,Baixa,Solicito a segunda via do boleto referente a 124.91 reais. Muito obrigado.
+675,Sra. Sofia Monteiro,125.890.736-40,PF,SP,chat,4,27,62.72,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+676,Joaquim Melo,542.079.316-43,PF,BA,app,4,12,234.89,ruim,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+677,Mariah Viana,326.975.801-40,PJ,BA,whatsapp,5,13,301.1,bom,Média,Quero entender as opções para regularizar meu débito.
+678,Valentim Azevedo,158.396.074-01,PF,RO,e-mail,5,9,278.65,bom,Média,Gostaria de negociar o valor de 278.65 reais em atraso. Aguardo retorno.
+679,Clarice Oliveira,084.367.251-07,PJ,MS,app,2,22,158.95,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+680,João Lucas Moura,926.351.784-37,PJ,SE,app,3,3,366.9,regular,Média,Quero entender as opções para regularizar meu débito.
+681,Maria Luiza Vasconcelos,341.082.956-33,PJ,PE,telefone,1,87,287.28,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+682,Larissa Cunha,184.729.036-13,PJ,ES,chat,3,42,85.63,regular,Média,Quero entender as opções para regularizar meu débito.
+683,Otávio Montenegro,105.274.683-71,PF,SP,chat,4,32,269.4,regular,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+684,Camila Machado,407.219.536-70,PF,MA,telefone,2,13,213.17,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+685,Cecilia Silva,683.024.175-80,PJ,AM,e-mail,3,10,143.85,bom,Baixa,Solicito a segunda via do boleto referente a 143.85 reais. Estou aguardando uma resposta.
+686,Otávio Jesus,190.386.547-66,PF,MS,whatsapp,1,55,256.79,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+687,Valentina Guerra,986.724.351-09,PF,PB,e-mail,1,11,197.83,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+688,Sra. Maria Vitória Castro,28.935.617/0001-18,PF,PE,telefone,2,2,299.28,ruim,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+689,Bárbara Sales,378.051.264-53,PJ,AM,e-mail,2,25,204.43,regular,Baixa,Solicito a segunda via do boleto referente a 204.43 reais.
+690,Léo Oliveira,402.875.913-79,PF,PR,e-mail,2,14,22.59,bom,Baixa,Solicito a segunda via do boleto referente a 22.59 reais. Estou aguardando uma resposta.
+691,Diego Casa Grande,960.281.453-51,PF,AC,chat,5,12,216.57,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+692,Yan Ferreira,106.342.795-99,PJ,PR,app,1,3,275.98,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+693,Dra. Caroline Teixeira,287.635.194-37,PF,AP,chat,2,9,321.84,regular,Média,Preciso de condições melhores para quitar minha dívida.
+694,Maria Luísa Gomes,365.409.287-00,PJ,CE,app,1,3,214.55,bom,Baixa,Solicito a segunda via do boleto referente a 214.55 reais. Estou aguardando uma resposta.
+695,Srta. Luana Novais,18.974.502/0001-89,PJ,PE,whatsapp,5,10,368.44,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+696,Renan Montenegro,012.978.453-23,PF,AP,e-mail,3,7,220.78,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+697,Luna Guerra,907.682.351-03,PF,AC,app,2,2,411.02,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+698,Luiza Garcia,418.097.263-87,PF,GO,chat,3,19,85.17,bom,Baixa,Solicito a segunda via do boleto referente a 85.17 reais.
+699,Eduardo das Neves,62.048.175/0001-26,PF,AL,app,5,4,269.03,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+700,Mathias Brito,526.873.049-56,PF,ES,telefone,4,8,245.67,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+701,Isabela Monteiro,89.602.751/0001-91,PF,PI,e-mail,4,7,157.94,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+702,Ana Luiza Mendes,063.924.875-65,PF,MA,telefone,5,1,161.26,ruim,Baixa,"Solicito a segunda via do boleto referente a 161.26 reais. Por favor, me ajudem."
+703,Maria Luísa Machado,183.692.507-77,PF,PI,app,2,31,96.27,regular,Média,Gostaria de negociar o valor de 96.27 reais em atraso.
+704,Ana Cecília Abreu,742.063.981-78,PF,TO,e-mail,2,4,257.26,bom,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+705,Maria Helena Ferreira,384.017.659-00,PF,MG,app,2,42,180.31,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+706,Srta. Cecilia Silveira,846.195.237-55,PF,RS,telefone,4,11,354.83,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+707,Rael da Mata,358.194.207-05,PF,RS,whatsapp,3,28,54.27,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+708,Renan Abreu,026.453.789-00,PJ,SE,whatsapp,5,8,61.63,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+709,Ana Vitória Nascimento,071.234.689-96,PF,TO,whatsapp,2,10,309.62,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+710,Srta. Camila Martins,537.016.289-12,PF,DF,app,2,14,142.87,bom,Baixa,Qual é o meu débito atual?
+711,Kevin Silva,39.720.684/0001-31,PJ,RR,chat,1,8,126.24,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+712,Giovanna Abreu,361.824.905-51,PF,RO,whatsapp,1,25,282.4,bom,Média,Quero entender as opções para regularizar meu débito.
+713,Dra. Emanuella Azevedo,921.784.653-82,PF,DF,e-mail,1,0,171.77,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+714,Alícia Sales,847.036.215-17,PF,GO,app,4,12,217.48,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+715,Valentim Martins,750.819.263-02,PF,MT,app,3,24,54.76,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+716,Matteo Correia,510.983.742-23,PJ,CE,e-mail,4,6,64.33,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+717,Dr. Benício Pires,107.384.295-97,PF,AM,chat,3,43,210.83,regular,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+718,Isabella Fernandes,053.948.761-93,PF,RJ,app,1,19,20.0,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+719,Bryan Araújo,065.879.143-57,PF,AL,e-mail,1,1,444.78,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+720,Pedro Azevedo,108.235.769-30,PF,ES,chat,2,13,222.91,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+721,Alexia Marques,679.480.235-00,PF,PB,telefone,3,17,156.03,regular,Baixa,Qual é o meu débito atual?
+722,Luísa Pastor,31.804.672/0001-83,PF,BA,e-mail,5,5,52.39,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+723,Sophia da Cunha,567.943.102-52,PF,SE,whatsapp,4,20,193.4,ruim,Baixa,"Solicito a segunda via do boleto referente a 193.4 reais. Por favor, me ajudem."
+724,Bento Cardoso,46.529.710/0001-04,PF,PR,e-mail,5,11,297.24,regular,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+725,Luigi da Rocha,502.814.697-76,PF,DF,telefone,4,5,305.28,bom,Média,Gostaria de negociar o valor de 305.28 reais em atraso. Muito obrigado.
+726,Guilherme Viana,153.876.249-82,PF,RN,app,5,28,338.61,bom,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+727,Otto Farias,217.603.859-21,PJ,RR,telefone,1,20,265.68,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+728,Ravi Lucca Pinto,397.528.140-50,PJ,TO,app,5,17,243.37,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+729,Luiz Miguel Albuquerque,15.047.926/0001-00,PF,DF,app,4,11,133.43,bom,Baixa,Solicito a segunda via do boleto referente a 133.43 reais. Estou aguardando uma resposta.
+730,Maria Cecília Aparecida,038.215.679-02,PF,MT,telefone,3,1,273.21,bom,Média,Gostaria de negociar o valor de 273.21 reais em atraso. Estou aguardando uma resposta.
+731,Isabelly Cavalcanti,302.678.459-10,PF,MG,telefone,4,64,169.33,ruim,Média,Gostaria de negociar o valor de 169.33 reais em atraso. Estou aguardando uma resposta.
+732,Brenda Fernandes,34.712.568/0001-57,PF,SE,whatsapp,4,32,228.81,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+733,Maya Silva,192.865.374-09,PF,MT,app,4,25,94.81,bom,Baixa,Solicito a segunda via do boleto referente a 94.81 reais.
+734,Mariane Porto,309.642.178-13,PF,AL,chat,3,7,30.07,bom,Baixa,Qual é o meu débito atual?
+735,Lara Cardoso,873.509.641-10,PF,SP,e-mail,4,14,143.77,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+736,Sophia Freitas,789.125.346-37,PF,PR,telefone,4,39,504.86,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+737,Murilo Porto,903.167.548-20,PF,MA,telefone,3,82,190.43,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+738,Maria Flor Oliveira,254.701.869-11,PF,PE,chat,4,36,163.56,bom,Média,Tenho uma proposta de pagamento parcelado.
+739,Sr. Asafe Martins,856.379.412-46,PF,MT,chat,3,22,320.56,ruim,Média,Preciso de condições melhores para quitar minha dívida.
+740,Mateus Alves,273.950.641-43,PF,TO,whatsapp,3,12,198.67,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+741,Sophie Nogueira,143.065.287-07,PF,MT,chat,5,3,256.62,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+742,Lucas da Cunha,493.581.206-06,PF,MA,e-mail,2,1,192.96,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+743,Dr. Nathan Pacheco,072.631.489-78,PF,PR,app,1,19,248.99,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+744,Valentim Pastor,879.206.134-69,PJ,DF,app,4,32,337.12,bom,Média,Quero entender as opções para regularizar meu débito.
+745,Milena Novais,052.417.986-76,PF,MT,telefone,4,46,276.01,bom,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+746,Otto Lima,684.270.539-83,PF,MT,whatsapp,4,31,262.67,regular,Média,Gostaria de negociar o valor de 262.67 reais em atraso.
+747,Maria Júlia Garcia,361.497.508-84,PJ,RJ,telefone,5,5,217.47,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+748,Liz Borges,219.054.367-34,PF,DF,telefone,1,15,183.1,bom,Baixa,Solicito a segunda via do boleto referente a 183.1 reais. Estou aguardando uma resposta.
+749,Matheus da Paz,39.457.086/0001-11,PF,MS,telefone,1,2,595.35,regular,Média,Preciso de condições melhores para quitar minha dívida.
+750,Alexia Cavalcante,568.107.349-10,PJ,MG,app,4,0,115.93,ruim,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+751,Davi Lucca Costela,467.195.230-07,PF,PE,app,5,3,387.13,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+752,Dra. Natália da Mota,302.986.174-04,PF,RJ,chat,5,43,171.36,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+753,Natália Martins,901.253.647-25,PF,MG,e-mail,3,10,180.41,regular,Baixa,Qual é o meu débito atual? Muito obrigado.
+754,Emanuella Leão,326.971.045-34,PF,ES,telefone,1,15,155.66,bom,Baixa,Qual é o meu débito atual?
+755,João Guilherme Pires,841.567.390-66,PF,MS,app,4,1,309.89,regular,Média,Gostaria de negociar o valor de 309.89 reais em atraso. Muito obrigado.
+756,Cauã Montenegro,567.128.043-53,PF,AP,e-mail,3,121,27.21,ruim,Alta,"O serviço foi cortado, preciso resolver imediatamente! Estou aguardando uma resposta."
+757,Nicole Garcia,563.709.248-65,PF,MT,app,1,0,20.0,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+758,Nicole Mendonça,718.459.306-57,PF,TO,e-mail,1,19,134.45,bom,Baixa,Solicito a segunda via do boleto referente a 134.45 reais. Estou aguardando uma resposta.
+759,Enrico Cavalcante,012.794.356-07,PF,RO,e-mail,2,21,141.11,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+760,João Gabriel Cassiano,752.180.634-44,PJ,TO,whatsapp,1,5,326.11,regular,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+761,Stephany Ramos,164.307.589-66,PF,SP,chat,5,10,20.0,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+762,Josué Freitas,391.086.475-93,PF,RO,telefone,4,5,215.65,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+763,Ana Luiza Câmara,128.034.697-31,PJ,PI,app,1,40,242.03,ruim,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+764,Esther Pinto,386.901.457-10,PJ,MT,app,5,17,182.1,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+765,Anthony Gabriel Guerra,506.137.824-53,PJ,RS,app,3,56,286.15,bom,Média,"Gostaria de negociar o valor de 286.15 reais em atraso. Por favor, me ajudem."
+766,Maria Eduarda Aparecida,136.248.075-44,PF,GO,whatsapp,5,57,328.92,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+767,Luan Pires,625.178.309-59,PF,AC,app,4,20,139.47,bom,Baixa,Qual é o meu débito atual?
+768,Melissa Garcia,830.174.569-00,PF,SC,chat,4,23,173.25,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+769,Isabelly Pinto,102.736.985-59,PF,DF,app,4,11,366.61,bom,Média,Tenho uma proposta de pagamento parcelado.
+770,Ana Carolina da Costa,97.512.804/0001-01,PF,SE,chat,5,48,135.16,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+771,Laura Sá,03.521.796/0001-16,PF,ES,app,4,2,342.04,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+772,Hellena Pereira,685.130.497-00,PJ,DF,e-mail,1,6,411.25,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+773,Diego Costela,21.946.857/0001-79,PF,AP,e-mail,2,1,241.79,bom,Baixa,Preciso de um extrato de pagamentos atualizado.
+774,Nina das Neves,238.714.569-00,PJ,RJ,telefone,2,13,110.22,regular,Baixa,Solicito a segunda via do boleto referente a 110.22 reais. Aguardo retorno.
+775,Gabriela da Mata,71.536.894/0001-87,PF,PA,e-mail,1,44,388.53,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+776,Marina Teixeira,270.635.814-90,PF,PI,telefone,2,10,167.27,ruim,Baixa,Solicito a segunda via do boleto referente a 167.27 reais.
+777,Srta. Jade Garcia,749.238.501-32,PF,BA,chat,4,23,155.41,bom,Baixa,Solicito a segunda via do boleto referente a 155.41 reais. Aguardo retorno.
+778,Sra. Fernanda Cassiano,308.642.915-15,PF,MG,e-mail,3,1,334.15,bom,Média,Gostaria de negociar o valor de 334.15 reais em atraso. Estou aguardando uma resposta.
+779,Sra. Maria Isis Mendonça,416.073.859-10,PF,GO,whatsapp,3,17,418.1,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+780,Sra. Sophia Santos,750.836.194-66,PF,AL,chat,4,10,20.0,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+781,Sr. Diogo da Luz,972.814.506-30,PF,SP,chat,5,14,21.33,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+782,Matheus Gonçalves,913.786.245-64,PF,PE,app,5,19,281.22,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+783,Maria Helena Pastor,461.059.287-85,PF,SC,app,5,6,161.78,ruim,Baixa,Qual é o meu débito atual?
+784,Miguel Sampaio,402.638.951-06,PF,PE,app,4,11,175.45,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+785,Laura Siqueira,628.715.430-62,PF,PE,app,4,19,213.77,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+786,Rael Nunes,32.905.147/0001-17,PF,PA,telefone,2,10,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+787,Bianca Porto,214.036.978-50,PF,AC,app,1,20,23.17,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+788,Isabela Mendes,71.092.643/0001-50,PF,DF,chat,5,1,242.88,ruim,Baixa,Qual é o meu débito atual?
+789,Alana Garcia,98.436.251/0001-18,PF,MS,app,1,0,20.0,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+790,Manuela Dias,356.940.218-51,PF,AC,whatsapp,3,27,148.44,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+791,Maria Liz Silveira,201.649.735-16,PF,RN,app,3,13,55.7,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+792,Olívia Moraes,630.527.941-16,PF,RO,chat,3,29,20.0,ruim,Baixa,Qual é o meu débito atual?
+793,Isabel Pereira,761.235.089-03,PF,MA,chat,1,0,203.27,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+794,Evelyn Silva,280.137.956-59,PF,CE,telefone,1,10,21.91,ruim,Baixa,Solicito a segunda via do boleto referente a 21.91 reais.
+795,Bruna Mendes,839.160.457-84,PJ,CE,telefone,5,4,163.21,ruim,Baixa,Qual é o meu débito atual? Muito obrigado.
+796,Dr. João Lucas Câmara,471.589.306-10,PF,ES,e-mail,2,26,41.88,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+797,Ana Luiza Ramos,568.974.302-00,PF,GO,app,3,44,337.12,regular,Média,Tenho uma proposta de pagamento parcelado. Muito obrigado.
+798,João Vitor Borges,195.748.026-20,PF,BA,whatsapp,3,64,445.29,bom,Média,Gostaria de negociar o valor de 445.29 reais em atraso. Estou aguardando uma resposta.
+799,Dr. Alexandre das Neves,083.675.219-86,PF,PE,e-mail,1,43,330.42,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+800,Hellena Caldeira,607.219.534-25,PF,BA,app,4,5,397.62,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+801,Larissa Casa Grande,054.789.231-41,PF,RS,telefone,4,23,166.26,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+802,Thales da Rocha,605.179.428-01,PF,SP,app,1,6,208.14,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+803,Ryan Siqueira,642.083.715-44,PJ,MS,chat,2,1,230.54,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+804,Maria Júlia Barbosa,849.517.302-60,PJ,MT,chat,4,13,171.34,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+805,Ana Júlia Santos,472.913.650-07,PF,DF,e-mail,5,7,185.64,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+806,Gael Henrique Sousa,051.873.429-32,PF,AL,app,1,40,213.66,regular,Média,Gostaria de negociar o valor de 213.66 reais em atraso. Muito obrigado.
+807,Luiz Henrique Melo,201.459.387-60,PF,ES,telefone,4,16,324.69,bom,Média,Tenho uma proposta de pagamento parcelado.
+808,Dante da Costa,674.581.320-35,PF,SP,e-mail,5,12,167.87,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+809,Maria Helena da Mota,750.968.413-75,PF,AC,whatsapp,4,12,110.21,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+810,Pietra da Mota,12.635.784/0001-03,PJ,BA,e-mail,1,13,229.0,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+811,Luan Azevedo,826.750.391-95,PJ,AP,whatsapp,5,23,204.43,bom,Baixa,Solicito a segunda via do boleto referente a 204.43 reais. Aguardo retorno.
+812,Zoe Silva,139.746.025-34,PF,SE,e-mail,1,5,101.4,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+813,Sr. Asafe Cardoso,932.047.685-38,PJ,PE,chat,4,35,282.22,bom,Média,Preciso de condições melhores para quitar minha dívida.
+814,Luiz Otávio Nogueira,260.197.538-59,PJ,BA,chat,5,26,111.9,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+815,Rebeca Sales,589.467.120-58,PF,RO,app,2,33,126.35,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+816,Isaac Andrade,324.615.789-82,PF,GO,chat,4,9,495.29,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+817,Otávio Barbosa,849.351.670-84,PJ,GO,e-mail,5,42,341.86,ruim,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+818,Mariana Sales,283.059.147-04,PF,RJ,chat,5,13,362.02,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+819,Sophia Pereira,269.735.084-56,PF,AP,whatsapp,2,81,161.91,regular,Média,Gostaria de negociar o valor de 161.91 reais em atraso. Muito obrigado.
+820,Davi Nascimento,18.602.759/0001-00,PF,SP,whatsapp,4,37,165.5,ruim,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+821,Diogo Câmara,401.376.892-50,PF,PE,app,3,11,400.07,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+822,Sra. Rebeca Brito,854.726.039-00,PF,MT,app,2,7,68.27,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+823,Emilly Ferreira,896.341.207-50,PF,RO,app,2,3,230.74,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+824,Diego Garcia,94.056.218/0001-01,PF,RN,chat,2,14,201.73,ruim,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+825,Natália Cirino,759.428.360-00,PJ,MA,e-mail,5,4,359.46,bom,Média,Gostaria de negociar o valor de 359.46 reais em atraso.
+826,Aurora das Neves,651.809.742-67,PF,RJ,whatsapp,4,4,101.08,regular,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+827,Bryan Souza,487.603.192-40,PF,PE,chat,1,91,195.02,regular,Alta,"Não consigo pagar desde 91 dias, perdi meu emprego. Por favor, me ajudem."
+828,Yasmin Sampaio,160.497.325-07,PJ,ES,chat,2,6,174.16,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+829,Dra. Vitória Rodrigues,907.154.682-94,PJ,MS,chat,4,0,125.16,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+830,Théo Fogaça,067.312.958-68,PF,TO,app,3,31,321.04,regular,Média,Gostaria de negociar o valor de 321.04 reais em atraso. Muito obrigado.
+831,Bárbara da Rocha,479.210.385-14,PJ,RS,whatsapp,3,14,288.53,bom,Média,Quero entender as opções para regularizar meu débito.
+832,Ana Carolina Martins,970.284.316-22,PF,MS,app,4,20,134.35,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+833,André Ferreira,265.083.479-00,PF,PE,telefone,5,4,60.86,regular,Baixa,Qual é o meu débito atual?
+834,Daniela Jesus,170.952.634-34,PJ,MS,app,5,35,169.74,bom,Média,Gostaria de negociar o valor de 169.74 reais em atraso.
+835,Luiz Otávio Lima,284.035.167-62,PF,SC,e-mail,2,19,101.92,regular,Baixa,Solicito a segunda via do boleto referente a 101.92 reais.
+836,Alana Fogaça,319.208.746-31,PF,AL,telefone,1,14,300.35,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+837,Gael Henrique Mendes,416.397.852-64,PF,PE,telefone,1,14,207.87,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+838,Dra. Maria Julia Cardoso,190.862.743-31,PF,AL,telefone,5,53,364.77,bom,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+839,Manuela Lima,906.325.781-30,PF,ES,chat,1,1,57.86,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+840,Daniela Siqueira,823.906.147-87,PF,DF,app,2,29,24.95,bom,Baixa,Solicito a segunda via do boleto referente a 24.95 reais.
+841,Bella Sampaio,823.641.509-06,PJ,MG,e-mail,2,41,198.53,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+842,João Guilherme Correia,260.417.859-11,PF,PE,app,2,54,344.92,bom,Média,Gostaria de negociar o valor de 344.92 reais em atraso. Muito obrigado.
+843,Igor Câmara,567.043.819-10,PJ,GO,telefone,4,6,370.24,ruim,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+844,Dr. Luiz Fernando Silva,635.019.487-00,PJ,DF,e-mail,4,31,357.3,ruim,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+845,Ravy da Mota,91.682.357/0001-52,PF,MA,app,1,6,174.63,bom,Baixa,"Solicito a segunda via do boleto referente a 174.63 reais. Por favor, me ajudem."
+846,Calebe Rios,082.765.491-01,PF,DF,e-mail,3,60,278.32,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+847,Maria Isis Borges,12.904.758/0001-33,PF,PB,telefone,3,6,67.86,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+848,Breno Nogueira,954.831.702-88,PF,DF,whatsapp,5,27,196.48,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+849,Isis Teixeira,859.370.641-00,PF,PA,telefone,4,7,216.78,regular,Baixa,Solicito a segunda via do boleto referente a 216.78 reais.
+850,Sarah Vieira,024.518.973-41,PF,SE,telefone,1,7,177.27,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+851,Srta. Maria Laura Monteiro,89.173.452/0001-89,PF,SP,chat,1,33,183.0,ruim,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+852,Maria Liz Pereira,432.019.576-07,PF,SE,whatsapp,1,6,103.89,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+853,Mirella Montenegro,849.612.730-31,PJ,CE,e-mail,3,47,397.71,bom,Média,Gostaria de negociar o valor de 397.71 reais em atraso. Estou aguardando uma resposta.
+854,Augusto Nascimento,340.512.697-52,PF,RS,telefone,3,18,169.64,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+855,Gustavo Henrique Nascimento,105.742.689-01,PF,SC,whatsapp,2,25,340.15,regular,Média,Gostaria de negociar o valor de 340.15 reais em atraso. Aguardo retorno.
+856,Nicolas Pimenta,450.872.193-14,PF,CE,chat,5,42,216.97,ruim,Média,Gostaria de negociar o valor de 216.97 reais em atraso.
+857,Antony Nascimento,916.524.830-98,PF,MT,whatsapp,2,31,151.92,bom,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+858,Gustavo Pacheco,627.153.809-68,PF,AP,whatsapp,1,8,181.9,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+859,Emilly Marques,293.471.806-96,PF,CE,e-mail,4,5,320.93,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+860,Matteo Rodrigues,931.708.642-03,PF,AM,whatsapp,2,3,314.17,bom,Média,"Gostaria de negociar o valor de 314.17 reais em atraso. Por favor, me ajudem."
+861,Dra. Cecilia Siqueira,016.395.427-52,PF,BA,app,1,13,20.0,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+862,Bryan da Mata,20.867.493/0001-79,PJ,AP,whatsapp,2,16,250.54,ruim,Média,Gostaria de negociar o valor de 250.54 reais em atraso. Estou aguardando uma resposta.
+863,Davi Miguel Mendes,972.863.105-77,PF,PI,e-mail,1,1,75.95,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+864,Sra. Ísis Campos,091.428.365-06,PF,ES,whatsapp,1,7,262.9,bom,Média,Preciso de condições melhores para quitar minha dívida. Estou aguardando uma resposta.
+865,Ian Lima,625.781.390-59,PF,PR,app,3,23,261.91,regular,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+866,Daniel Câmara,145.082.693-89,PJ,AL,chat,4,15,83.57,bom,Baixa,Solicito a segunda via do boleto referente a 83.57 reais. Estou aguardando uma resposta.
+867,Clarice Cavalcanti,685.413.729-28,PF,RN,telefone,5,0,111.1,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+868,Luiz Fernando Caldeira,475.280.936-29,PJ,MT,chat,2,3,51.65,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+869,Mathias Machado,718.432.905-88,PF,BA,chat,4,3,133.87,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+870,Matheus Fogaça,57.639.820/0001-45,PF,SE,app,1,38,238.9,bom,Média,"Gostaria de negociar o valor de 238.9 reais em atraso. Por favor, me ajudem."
+871,Isabelly Gomes,687.493.150-48,PF,RJ,app,2,2,347.32,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+872,Sra. Valentina Oliveira,319.208.546-06,PF,BA,telefone,5,6,51.85,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+873,Bento Ferreira,52.431.760/0001-57,PJ,DF,app,3,35,200.24,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+874,Benjamin Souza,219.350.684-15,PF,RR,whatsapp,4,4,126.95,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+875,Brayan Mendes,92.018.673/0001-97,PF,AP,whatsapp,1,6,269.94,bom,Média,Preciso de condições melhores para quitar minha dívida.
+876,Oliver Cassiano,279.548.316-55,PF,PB,chat,1,11,172.71,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+877,Alice da Paz,120.574.986-11,PJ,AC,chat,3,17,357.91,bom,Média,Quero entender as opções para regularizar meu débito.
+878,Mariana Rodrigues,784.962.130-13,PF,GO,e-mail,5,20,508.41,bom,Média,Tenho uma proposta de pagamento parcelado.
+879,Vicente Garcia,236.401.859-51,PF,TO,whatsapp,2,9,281.3,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+880,Sra. Pietra Dias,692.073.148-78,PF,AM,app,4,7,419.41,ruim,Média,Gostaria de negociar o valor de 419.41 reais em atraso.
+881,Luiz Miguel Pereira,503.214.876-80,PF,RN,e-mail,1,12,181.11,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+882,Leonardo Correia,830.127.456-53,PF,AL,telefone,2,14,274.19,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+883,Levi Borges,40.562.319/0001-25,PF,SP,whatsapp,1,16,20.0,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+884,Maria Alice Cardoso,156.840.973-75,PF,PR,chat,2,2,50.13,regular,Baixa,"Solicito a segunda via do boleto referente a 50.13 reais. Por favor, me ajudem."
+885,Ana Carolina da Rocha,297.056.148-49,PF,SP,e-mail,1,15,184.42,bom,Baixa,Solicito a segunda via do boleto referente a 184.42 reais.
+886,Srta. Sarah Moreira,985.312.476-91,PF,AL,chat,1,9,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais. Muito obrigado.
+887,Dra. Maria Julia da Costa,312.459.067-80,PF,SP,chat,3,24,306.0,bom,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+888,Yan Viana,179.328.506-30,PF,GO,app,4,26,151.75,regular,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+889,Maria Clara Fogaça,192.537.684-28,PF,RS,app,2,22,316.77,regular,Média,Gostaria de negociar o valor de 316.77 reais em atraso.
+890,Davi Nunes,705.623.498-47,PF,PB,app,2,30,65.81,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+891,Dr. Marcelo Barros,687.250.493-56,PF,RR,chat,5,4,266.03,regular,Média,Gostaria de negociar o valor de 266.03 reais em atraso.
+892,Alexia Cassiano,146.983.057-48,PF,PB,app,5,72,172.81,regular,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+893,Ayla Ferreira,798.061.542-58,PJ,DF,telefone,1,63,323.92,bom,Média,"Gostaria de negociar o valor de 323.92 reais em atraso. Por favor, me ajudem."
+894,Luísa Azevedo,597.183.062-77,PF,AL,chat,5,24,153.17,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+895,Daniela Melo,235.406.871-90,PF,SE,telefone,4,23,359.06,bom,Média,Preciso de condições melhores para quitar minha dívida.
+896,Olívia Cunha,039.658.217-68,PJ,AP,telefone,4,3,223.13,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+897,Bernardo da Mota,614.953.720-06,PJ,RO,whatsapp,5,28,137.55,ruim,Baixa,Preciso de um extrato de pagamentos atualizado.
+898,Francisco Aragão,165.829.437-82,PF,PR,telefone,1,34,337.92,ruim,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+899,Zoe Sales,265.743.098-83,PF,AP,whatsapp,2,13,27.24,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+900,Dra. Clara Duarte,502.316.789-59,PF,GO,e-mail,3,15,163.22,bom,Baixa,Qual é o meu débito atual?
+901,Agatha Machado,271.085.396-59,PF,RN,chat,3,49,206.56,bom,Média,"Gostaria de negociar o valor de 206.56 reais em atraso. Por favor, me ajudem."
+902,Helena Ferreira,390.267.514-43,PF,RR,app,3,16,439.14,ruim,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+903,Mirella Jesus,658.943.207-47,PF,PB,e-mail,5,21,20.0,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+904,Maria Fernanda Cavalcanti,826.397.540-92,PF,AP,telefone,2,8,266.9,ruim,Média,Quero entender as opções para regularizar meu débito. Muito obrigado.
+905,Caio Rezende,061.354.927-99,PF,PE,telefone,3,11,263.47,regular,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+906,Ana Beatriz Rios,463.179.502-61,PF,PR,e-mail,1,19,264.93,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+907,Luiz Fernando Vieira,768.021.543-07,PF,MA,chat,5,3,106.77,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+908,Isabella Abreu,608.712.459-49,PF,RJ,app,4,39,303.43,ruim,Média,"Gostaria de negociar o valor de 303.43 reais em atraso. Por favor, me ajudem."
+909,Isabella Novais,63.970.485/0001-66,PJ,RS,chat,5,6,24.94,bom,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+910,Emanuella Guerra,58.231.097/0001-23,PF,AM,app,2,24,266.45,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+911,Maria Júlia Teixeira,48.271.093/0001-15,PF,PA,app,1,23,20.22,bom,Baixa,Solicito a segunda via do boleto referente a 20.22 reais. Estou aguardando uma resposta.
+912,Eduardo Alves,98.143.075/0001-26,PF,RS,whatsapp,5,29,202.41,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+913,Maria Alice Cirino,394.176.850-66,PF,GO,app,4,12,125.06,regular,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+914,Diego Pires,018.349.567-57,PJ,GO,whatsapp,1,67,197.26,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+915,Caleb Barbosa,753.906.814-01,PF,PR,chat,2,12,118.98,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+916,Ana Vitória Costela,695.731.480-48,PF,CE,app,5,4,204.14,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+917,Ana Beatriz Campos,597.468.031-66,PF,AM,app,5,30,306.33,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+918,Arthur Nascimento,082.179.643-78,PF,BA,chat,1,17,194.12,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+919,Bryan Siqueira,248.310.965-98,PJ,PB,chat,2,7,47.93,bom,Baixa,Qual é o meu débito atual? Aguardo retorno.
+920,Sra. Maya Moraes,634.192.805-05,PF,CE,whatsapp,3,16,20.0,regular,Baixa,Solicito a segunda via do boleto referente a 20 reais.
+921,Ryan Lopes,764.829.051-02,PF,PA,telefone,3,28,224.2,bom,Baixa,Solicito a segunda via do boleto referente a 224.2 reais.
+922,Luiz Gustavo Freitas,172.048.395-79,PF,MG,whatsapp,3,13,159.34,bom,Baixa,Solicito a segunda via do boleto referente a 159.34 reais. Muito obrigado.
+923,Danilo Cirino,562.710.983-12,PF,MS,whatsapp,4,31,335.94,bom,Média,Gostaria de negociar o valor de 335.94 reais em atraso. Aguardo retorno.
+924,Levi Campos,059.821.364-33,PF,ES,chat,2,10,153.12,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+925,Ana Luiza Gomes,43.809.265/0001-48,PF,RS,chat,5,39,192.65,bom,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+926,Maya Dias,53.807.961/0001-79,PF,PA,app,3,18,349.54,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+927,Davi Machado,256.140.983-05,PF,PB,telefone,2,2,130.57,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+928,Davi Lucca Guerra,089.257.413-50,PF,TO,whatsapp,4,32,20.0,regular,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+929,Liz da Mota,596.042.387-10,PF,MG,app,5,23,269.94,bom,Média,Quero entender as opções para regularizar meu débito.
+930,Rafael Monteiro,15.907.643/0001-90,PF,AM,app,2,0,114.47,ruim,Baixa,Qual é o meu débito atual? Aguardo retorno.
+931,Dr. Henry Gabriel Cavalcante,135.640.798-66,PJ,AM,whatsapp,4,0,268.1,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+932,Kevin Barbosa,456.281.973-19,PF,AM,whatsapp,1,2,154.15,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+933,Liam Casa Grande,967.504.123-43,PF,RO,e-mail,2,41,112.42,ruim,Média,"Quero entender as opções para regularizar meu débito. Por favor, me ajudem."
+934,Lara Duarte,731.260.584-26,PF,RO,telefone,4,2,167.07,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+935,Gabrielly Sales,197.086.532-68,PF,DF,app,4,5,239.99,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+936,Bella Fernandes,385.629.170-95,PF,BA,chat,1,59,143.52,ruim,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+937,Luiz Otávio Gomes,783.691.042-31,PF,CE,app,4,17,200.13,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Estou aguardando uma resposta.
+938,Lorena Oliveira,127.056.943-07,PF,CE,whatsapp,3,28,175.52,regular,Baixa,Solicito a segunda via do boleto referente a 175.52 reais. Aguardo retorno.
+939,Arthur Melo,875.204.916-76,PF,DF,e-mail,2,32,168.78,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+940,Miguel Montenegro,685.032.497-74,PF,RS,telefone,5,18,43.34,ruim,Baixa,Solicito a segunda via do boleto referente a 43.34 reais. Estou aguardando uma resposta.
+941,Mariana Correia,436.192.857-64,PF,AM,whatsapp,3,51,122.14,regular,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+942,Ana Julia Ramos,319.065.247-34,PF,PI,whatsapp,1,4,335.12,regular,Média,Gostaria de negociar o valor de 335.12 reais em atraso.
+943,João Guilherme Câmara,968.301.245-06,PF,CE,telefone,5,59,158.04,regular,Média,Preciso de condições melhores para quitar minha dívida.
+944,Luiz Felipe Porto,490.718.325-97,PF,RR,telefone,4,6,191.32,bom,Baixa,Solicito a segunda via do boleto referente a 191.32 reais. Estou aguardando uma resposta.
+945,Enzo Gabriel Dias,128.739.064-13,PF,PA,app,3,26,241.48,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+946,Sr. Felipe da Luz,12.048.379/0001-99,PF,ES,whatsapp,2,34,271.23,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+947,Brenda Aparecida,043.861.592-15,PF,MA,telefone,5,5,216.26,regular,Baixa,Solicito a segunda via do boleto referente a 216.26 reais.
+948,Sra. Milena Mendonça,584.932.710-04,PF,TO,telefone,2,107,227.72,bom,Alta,"Minha situação financeira está complicada, estou devendo 227.72 reais."
+949,Dr. Lucas Gabriel Moreira,971.254.038-32,PJ,ES,app,4,6,20.0,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+950,Cecília Fogaça,70.345.928/0001-93,PF,SC,chat,1,8,121.17,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+951,Gael Garcia,147.892.653-82,PF,RJ,e-mail,4,92,129.87,bom,Alta,"Não consigo pagar desde 92 dias, perdi meu emprego. Muito obrigado."
+952,Kamilly das Neves,305.648.912-15,PF,MA,app,2,21,199.16,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+953,Anthony Monteiro,279.486.135-28,PF,MA,app,2,5,104.77,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+954,Juan Albuquerque,703.248.516-26,PF,AC,telefone,3,18,104.3,bom,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+955,Maria Ribeiro,094.125.683-98,PJ,BA,e-mail,4,44,398.33,bom,Média,"Gostaria de negociar o valor de 398.33 reais em atraso. Por favor, me ajudem."
+956,Srta. Marina Pacheco,143.072.985-60,PF,PA,chat,3,9,91.31,bom,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+957,Beatriz da Luz,492.837.160-78,PF,GO,telefone,3,65,308.78,ruim,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+958,Oliver Novaes,34.802.795/0001-73,PF,CE,e-mail,5,49,293.61,bom,Média,Preciso de condições melhores para quitar minha dívida. Muito obrigado.
+959,Maya Brito,287.594.613-73,PF,PA,whatsapp,3,26,182.73,regular,Baixa,Solicito a segunda via do boleto referente a 182.73 reais. Estou aguardando uma resposta.
+960,Mariah Jesus,708.639.125-59,PF,SE,app,1,40,212.08,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+961,Théo Freitas,284.031.596-33,PJ,PB,whatsapp,5,14,130.18,bom,Baixa,Solicito a segunda via do boleto referente a 130.18 reais. Muito obrigado.
+962,Natália Aragão,104.658.237-26,PF,TO,whatsapp,3,26,414.38,bom,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+963,Rodrigo Sales,501.946.823-15,PJ,PE,chat,5,5,413.41,bom,Média,Quero entender as opções para regularizar meu débito. Estou aguardando uma resposta.
+964,Thales Carvalho,324.580.967-00,PF,AM,chat,5,20,303.35,regular,Média,"Tenho uma proposta de pagamento parcelado. Por favor, me ajudem."
+965,Alexandre Cassiano,918.760.345-48,PF,MG,app,5,49,370.31,bom,Média,Gostaria de negociar o valor de 370.31 reais em atraso.
+966,Davi da Rosa,672.914.835-73,PF,RO,e-mail,4,1,157.46,bom,Baixa,Solicito a segunda via do boleto referente a 157.46 reais. Muito obrigado.
+967,Camila Lopes,209.156.478-85,PJ,PR,whatsapp,2,7,83.64,bom,Baixa,Qual é o meu débito atual? Muito obrigado.
+968,Lavínia da Rocha,175.823.460-17,PJ,PB,whatsapp,5,22,78.76,regular,Baixa,Solicito a segunda via do boleto referente a 78.76 reais. Estou aguardando uma resposta.
+969,Mariana Casa Grande,047.983.621-31,PJ,AL,e-mail,3,5,91.56,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+970,Melina Aparecida,527.938.061-02,PF,PE,whatsapp,5,1,174.47,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+971,Giovanna Ferreira,861.759.234-64,PF,PB,app,2,17,156.89,bom,Baixa,Solicito a segunda via do boleto referente a 156.89 reais.
+972,Srta. Lara Viana,46.185.397/0001-34,PJ,RN,telefone,3,0,320.41,bom,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+973,Emilly Oliveira,89.415.273/0001-00,PF,RN,e-mail,2,40,20.0,bom,Média,Tenho uma proposta de pagamento parcelado. Aguardo retorno.
+974,Ana Lívia Aparecida,023.956.781-12,PF,MT,telefone,5,16,167.91,ruim,Baixa,Solicito a segunda via do boleto referente a 167.91 reais. Estou aguardando uma resposta.
+975,Isaac Caldeira,268.074.953-74,PJ,SC,whatsapp,3,1,180.44,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Muito obrigado.
+976,Pedro Miguel Teixeira,502.783.496-92,PF,DF,chat,1,1,164.11,ruim,Baixa,Solicito a segunda via do boleto referente a 164.11 reais. Muito obrigado.
+977,Samuel Macedo,438.517.602-71,PF,RS,whatsapp,4,76,233.63,ruim,Média,Preciso de condições melhores para quitar minha dívida. Aguardo retorno.
+978,Aylla Costela,029.834.715-60,PF,RO,telefone,4,5,400.72,regular,Média,"Preciso de condições melhores para quitar minha dívida. Por favor, me ajudem."
+979,Dra. Vitória Monteiro,397.425.108-14,PF,PA,telefone,3,2,20.0,ruim,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Por favor, me ajudem."
+980,Maria Flor Barbosa,912.647.038-13,PF,ES,app,3,3,20.0,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Aguardo retorno."
+981,Vitor Hugo Farias,034.628.597-65,PF,MA,app,3,11,69.41,regular,Baixa,Solicito a segunda via do boleto referente a 69.41 reais. Aguardo retorno.
+982,Vitor Oliveira,384.970.521-88,PF,GO,app,4,8,187.78,bom,Baixa,Solicito a segunda via do boleto referente a 187.78 reais. Muito obrigado.
+983,Ana Andrade,564.120.873-62,PJ,SP,telefone,5,8,20.0,bom,Baixa,Solicito a segunda via do boleto referente a 20 reais.
+984,Ana Liz da Costa,710.293.568-40,PF,BA,chat,1,1,43.34,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere."
+985,Asafe Caldeira,07.352.841/0001-07,PJ,SE,chat,5,3,593.39,bom,Média,Tenho uma proposta de pagamento parcelado.
+986,Antônio Araújo,036.579.841-00,PF,SP,whatsapp,3,64,112.35,ruim,Média,Tenho uma proposta de pagamento parcelado. Estou aguardando uma resposta.
+987,Carolina Lopes,682.039.714-31,PF,MT,app,4,3,237.83,regular,Baixa,Solicito a segunda via do boleto referente a 237.83 reais. Aguardo retorno.
+988,Ana Laura da Costa,310.894.752-41,PF,TO,app,5,20,20.0,ruim,Baixa,"Qual é o meu débito atual? Por favor, me ajudem."
+989,Breno Araújo,279.806.435-00,PF,MA,telefone,3,2,119.02,regular,Baixa,Preciso de um extrato de pagamentos atualizado.
+990,Miguel Mendes,19.824.736/0001-02,PF,SC,e-mail,5,5,51.5,regular,Baixa,Qual é o meu débito atual? Aguardo retorno.
+991,Sr. Pedro Miguel Silva,45.968.127/0001-37,PF,RR,e-mail,1,6,158.89,bom,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Estou aguardando uma resposta."
+992,Sarah Caldeira,056.843.297-56,PF,BA,app,3,4,174.76,bom,Baixa,Preciso de um extrato de pagamentos atualizado. Aguardo retorno.
+993,Isabel das Neves,831.257.094-23,PJ,RS,chat,5,49,174.88,bom,Média,Tenho uma proposta de pagamento parcelado.
+994,Bruna Almeida,704.293.685-00,PF,GO,whatsapp,5,0,184.57,regular,Baixa,"Preciso de um extrato de pagamentos atualizado. Por favor, me ajudem."
+995,Maria Isis Monteiro,068.391.475-84,PF,RO,e-mail,2,0,54.41,ruim,Baixa,Qual é o meu débito atual? Estou aguardando uma resposta.
+996,Yasmin Aragão,405.892.736-47,PJ,SP,telefone,1,34,34.12,bom,Média,Quero entender as opções para regularizar meu débito.
+997,Luigi Silveira,968.750.421-85,PJ,SC,e-mail,2,31,208.68,regular,Média,Quero entender as opções para regularizar meu débito. Aguardo retorno.
+998,Laura Nascimento,764.135.802-08,PF,GO,e-mail,1,23,99.42,regular,Baixa,"Tenho dúvida sobre a fatura, o valor não confere. Muito obrigado."
+999,Kamilly Barros,384.279.061-96,PF,MS,e-mail,5,4,184.24,regular,Baixa,Solicito a segunda via do boleto referente a 184.24 reais. Aguardo retorno.
+1000,José Viana,901.246.587-76,PJ,PB,telefone,4,15,20.0,ruim,Baixa,Solicito a segunda via do boleto referente a 20 reais. Aguardo retorno.
