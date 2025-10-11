@@ -1,216 +1,119 @@
-🧠 Classificação Inteligente de Chamados
-Pipeline de Machine Learning para Priorização Automática no Atendimento ao Cliente
+Claro, Raphael! 👇
+Aqui está a **versão em Markdown** formatada e pronta para colar diretamente no seu `README.md` do GitHub:
 
-📘 1. INTRODUÇÃO
+---
 
-Este projeto apresenta a implementação de um pipeline completo de Machine Learning (ML) voltado à classificação e priorização automatizada de chamados de clientes.
+# 🧠 Pipeline Inteligente de Machine Learning para Classificação de Chamados
 
-O objetivo é prever a urgência de cada chamado, com base em atributos como dias_atraso, valor_total_divida e texto_chamado, simulando um cenário real de atendimento ao cliente.
+Este projeto apresenta a construção completa de um **pipeline de Machine Learning** voltado para a **classificação automática de chamados de atendimento** com base em texto e dados numéricos.
+A solução simula o ambiente de uma empresa que precisa **priorizar demandas de clientes** com base em critérios de urgência, utilizando **técnicas avançadas de NLP (Processamento de Linguagem Natural)** e **modelagem supervisionada**.
 
-O target (variável urgencia) é definido conforme regras de negócio simuladas, onde altos valores de atraso e dívida indicam Alta Urgência.
+O notebook foi estruturado em **20 células sequenciais**, cada uma responsável por uma etapa específica do ciclo de vida de um modelo de ML — desde a preparação do ambiente até a simulação de um **deployment em produção**.
 
-O pipeline combina dados tabulares e textuais, aplicando técnicas de Processamento de Linguagem Natural (NLP) e aprendizado supervisionado.
-Devido ao desbalanceamento natural das classes, a métrica principal escolhida é o F1-Score Ponderado, mais robusta que a acurácia em cenários assimétricos.
+---
 
-⚙️ 2. CONFIGURAÇÃO E GERAÇÃO DE DADOS
-2.1 Configuração do Ambiente e Dependências
+## ⚙️ Etapas Principais do Projeto
 
-A etapa inicial (bootstrap) compreende a instalação automatizada de dependências essenciais:
+### 1. Configuração do Ambiente
 
-Simulação de dados: faker
+* Instalação e importação de bibliotecas essenciais: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `torch`, `tensorflow` e `imbalanced-learn`.
+* Criação de uma base sólida para manipulação de dados, modelagem, balanceamento e deep learning.
 
-Modelos avançados: xgboost, torch, tensorflow
+### 2. Geração e Carregamento de Dados
 
-Balanceamento de classes: imbalanced-learn
+* Uso da biblioteca **Faker** para gerar dados sintéticos realistas quando não há dataset real disponível.
+* Campos simulados: `dias_atraso`, `valor_divida`, `texto_chamado` e `urgência`.
+* Regras de negócio coerentes para garantir um *target* válido.
 
-Manipulação e visualização: pandas, numpy, seaborn
+### 3. Análise Exploratória (EDA)
 
-Pré-processamento: TfidfVectorizer, LabelEncoder, StandardScaler
+* Estatísticas descritivas, correlação e visualizações (heatmaps, boxplots, barplots).
+* Confirmação da relação lógica entre atraso, dívida e urgência.
 
-Modelagem: RandomForestClassifier, SVC, XGBClassifier, Keras Sequential
+### 4. Pré-processamento e Limpeza de Texto
 
-2.2 Estratégia de Carregamento e Dados Sintéticos
+* Normalização textual: minúsculas, remoção de pontuação e *stopwords*.
+* Preparação dos dados para vetorização via **TF-IDF**.
 
-A função upload_data() realiza a tentativa de upload de um dataset.
-Se não houver arquivo disponível, o script criar_dados_simulados() gera um dataset sintético com 1.000 registros coerentes com a lógica de negócio.
+### 5. Codificação e Desbalanceamento
 
-A variável texto_chamado é diretamente correlacionada à urgência, permitindo aplicar NLP supervisionado sobre o texto.
+* Transformação da variável *urgência* em valores numéricos.
+* Análise de distribuição de classes e justificativa para uso de métricas ponderadas e `class_weight='balanced'`.
 
-📸 [CÉLULA 1] Visualização do head() do DataFrame e formato (shape).
+### 6. Vetorização e Engenharia de Features
 
-🔍 3. ANÁLISE EXPLORATÓRIA DE DADOS E PRÉ-PROCESSAMENTO
-3.1 Análise de Correlação e Estatísticas
+* Vetorização do texto com **TF-IDF** (unigramas e bigramas).
+* Combinação de features textuais e tabulares em uma única matriz.
 
-Variáveis categóricas, como urgencia e historico_pagamento, foram codificadas ordinalmente:
-Baixa = 0, Média = 1, Alta = 2.
+### 7. Treinamento e Avaliação de Modelos
 
-A matriz de correlação evidencia a relação direta entre dias_atraso, valor_total_divida e urgencia_encoded_corr.
+Modelos comparados:
 
-📊 [CÉLULA 2.1.1] Heatmap da matriz de correlação.
+* 🌲 Random Forest
+* 🚀 XGBoost
+* 🧠 SVM
+* 🤖 Rede Neural (Keras/TensorFlow)
 
-📈 [CÉLULA 2.1.2] Estatísticas descritivas agrupadas por nível de urgência.
+Métrica principal: **F1-Score Ponderado**.
 
-3.2 Pré-processamento de Dados Textuais (NLP)
+> **Resultado:** Random Forest apresentou melhor equilíbrio entre desempenho e interpretabilidade.
 
-A função preprocess_text() aplica etapas de normalização:
+### 8. Diagnóstico e Interpretabilidade
 
-Conversão para minúsculas;
+* Análise de falsos negativos, vetores de suporte e curvas de perda.
+* Entendimento das fronteiras de decisão e comportamento dos modelos.
 
-Remoção de pontuação e símbolos;
+### 9. Deployment Simulado
 
-Exclusão de stopwords em português.
+* Serialização dos artefatos: modelo, scaler, vetorizador e codificador.
+* Função `priorizar_chamado()` simulando uma API em produção:
 
-Os textos são vetorizados por TF-IDF, gerando uma matriz numérica representativa dos chamados.
+  * Entrada: texto e dados tabulares de um chamado.
+  * Saída: prioridade (`Alta`, `Média`, `Baixa`).
 
-3.3 Codificação do Target e Análise de Desbalanceamento
+### 10. Integração com BI e Revalidação
 
-A variável urgencia é codificada com LabelEncoder.
-Um gráfico de barras mostra o desbalanceamento entre as classes.
+* Preparação para integração futura com dashboards e sistemas de monitoramento.
+* Garantia de **reprodutibilidade**, **confiabilidade** e **escalabilidade**.
 
-⚖️ [CÉLULA 4] Distribuição de amostras por nível de urgência.
+---
 
-3.4 Validação do Sinal Preditivo
+## 🚀 Conclusão
 
-A EDA visual confirma o relacionamento entre risco financeiro e urgência, sustentando a coerência do modelo.
+Este projeto demonstra o ciclo completo de um **sistema inteligente de priorização de chamados** — unindo:
 
-💲 [CÉLULA 5] Boxplot de dias_atraso e valor_total_divida por urgencia.
+* 🧪 Ciência de Dados
+* 🤖 Machine Learning
+* 🧰 Boas práticas de Engenharia de Software
 
-🧩 4. ENGENHARIA DE FEATURES E COMBINAÇÃO HÍBRIDA
-4.1 Vetorização TF-IDF
+Com ele, empresas podem transformar dados textuais e operacionais em **decisões automatizadas e baseadas em evidências**, otimizando o tempo de resposta e a eficiência no atendimento ao cliente.
 
-O TfidfVectorizer é configurado com:
-ngram_range=(1,2), max_features=500, min_df=2, max_df=0.8.
+---
 
-🗣️ [CÉLULA 6] Gráfico das 15 principais palavras (Top Features) no TF-IDF.
+## 🧾 Stack Tecnológica
 
-4.2 Fusão e Normalização
+* **Linguagem:** Python
+* **Bibliotecas principais:** `pandas`, `numpy`, `scikit-learn`, `xgboost`, `torch`, `tensorflow`, `faker`, `matplotlib`, `seaborn`
+* **Modelos:** Random Forest, XGBoost, SVM, Rede Neural
+* **NLP:** TF-IDF Vectorizer
+* **Métrica de Avaliação:** F1-Score Ponderado
+* **Simulação de Deployment:** API de predição com função `priorizar_chamado()`
 
-As variáveis contínuas são normalizadas com StandardScaler, e as categóricas mantêm hierarquia ordinal.
+---
 
-📊 [CÉLULA 7] Histogramas antes e depois da normalização.
+## 📈 Próximos Passos
 
-4.3 Divisão Estratificada
+* [ ] Deploy em API Flask/FastAPI
+* [ ] Integração com Power BI / Streamlit
+* [ ] Treinamento com dados reais (quando disponível)
+* [ ] Monitoramento de performance em produção
 
-A função train_test_split() é utilizada com stratify=y, garantindo a mesma proporção de classes nos conjuntos de treino e teste.
+---
 
-✅ [CÉLULA 8] Comparativo de proporções entre treino e teste.
+✍️ **Autor:** Raphael Henrique
+📅 **Ano:** 2025
+📧 **Contato:** [LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com)
 
-🤖 5. MODELAGEM E AVALIAÇÃO DE DESEMPENHO
-5.1 Modelos Clássicos
+---
 
-Modelos testados:
-
-Random Forest
-
-XGBoost
-
-SVM
-
-O desbalanceamento foi mitigado por class_weight='balanced'.
-
-🎯 [CÉLULA 9] Matrizes de confusão e relatórios de classificação.
-
-5.2 Rede Neural (Deep Learning)
-
-Implementação de rede Sequential (Keras) com:
-
-Camadas densas com ReLU;
-
-Regularização via Dropout(0.5);
-
-Otimizador Adam;
-
-Função de perda categorical_crossentropy.
-
-🧠 [CÉLULA 14] Curvas de Loss e Acurácia.
-🎯 [CÉLULA 10] Matriz de confusão da rede neural.
-
-5.3 Análise de Erros e Interpretabilidade
-
-O DataFrame erros_df isola falsos negativos para análise.
-Também é avaliado o comportamento dos vetores de suporte (SVM).
-
-🚨 [CÉLULA 11] Erros e falsos negativos.
-🔎 [CÉLULA 12–13] Análise dos vetores de suporte e perfis preditivos.
-
-5.4 Comparação de Desempenho
-
-O desempenho foi avaliado com base no F1-Score ponderado.
-
-🏆 [CÉLULA 15] Comparativo de desempenho entre modelos.
-📈 [CÉLULA 16] Curvas de aprendizado do modelo vencedor.
-
-🚀 6. DEPLOYMENT E SIMULAÇÃO OPERACIONAL
-6.1 Persistência de Artefatos
-
-Os artefatos são salvos em formato .pkl via joblib:
-
-modelo_priorizacao.pkl
-
-tfidf_vectorizer.pkl
-
-scaler.pkl
-
-label_encoder.pkl
-
-Esses arquivos garantem reprodutibilidade e ausência de data leakage.
-
-6.2 Teste de Unidade e Simulação
-
-A função priorizar_chamado() simula a classificação de um novo chamado.
-
-🧪 [CÉLULA 19] Saída de testes unitários com previsões Alta/Média/Baixa.
-
-A simulação batch adiciona a coluna urgencia_prevista ao dataset.
-
-🥇 [CÉLULA 21] Visualização do DataFrame final com predições.
-
-📊 7. BUSINESS INTELLIGENCE (BI) E ANÁLISES ESTRATÉGICAS
-7.1 Dashboard de Monitoramento
-
-Painel 2x2 exibindo:
-
-Real vs Previsto;
-
-Precisão por Classe;
-
-Valor Médio de Dívida;
-
-Matriz de Confusão Final.
-
-🖼️ [CÉLULA 22] Dashboard consolidado de desempenho.
-
-7.2 Análises de Segmentação
-7.2.1 Segmentação Geográfica
-
-🗺️ [CÉLULA 23] Urgência Prevista por Estado.
-♨️ [CÉLULA 26] Mapa Coroplético – Urgência Prevista.
-🌎 [CÉLULA 27] Mapa Coroplético – Volume Total de Chamados.
-
-7.2.2 Segmentação Operacional
-
-📞 [CÉLULA 24] Urgência por Tipo de Cliente e Canal de Contato.
-⚙️ [CÉLULA 25] Correlação entre Tentativas de Contato e Risco.
-
-🧾 8. CONCLUSÃO
-
-O projeto implementa um pipeline completo de Machine Learning, cobrindo desde o tratamento de dados até o deployment e geração de insights estratégicos.
-
-As variáveis dias_atraso e valor_total_divida se mostraram altamente correlacionadas com a urgência, comprovando a relevância do modelo.
-
-O Random Forest obteve o melhor desempenho, sendo o modelo vencedor.
-Todos os artefatos foram salvos para reutilização e integração futura com sistemas de atendimento.
-
-O resultado é uma solução automatizada para priorização de chamados, que proporciona:
-
-Redução de falsos negativos;
-
-Otimização da triagem de tickets;
-
-Apoio à tomada de decisão estratégica.
-
-👨‍💻 Autor: Raphael Henrique
-
-📅 Ano: 2025
-🏛️ Instituição: Projeto Acadêmico – Gestão da Tecnologia da Informação/Machine Learning & Deep Learning
-🎓 Tema: Inteligência Artificial e Ciência de Dados Aplicada ao Atendimento
+Quer que eu adicione um **badge de tecnologias** (Python, Scikit-learn, TensorFlow, etc.) no topo do README para deixá-lo mais profissional? (ex: ![Python](https://img.shields.io/badge/Python-3.10-blue)) 🛠️✨
