@@ -1,9 +1,12 @@
 # 🧠 Pipeline Inteligente de Machine Learning para Classificação de Chamados
 
-Este projeto apresenta a construção completa de um **pipeline de Machine Learning** voltado para a **classificação automática de chamados de atendimento** com base em texto e dados numéricos.
-A solução simula o ambiente de uma empresa que precisa **priorizar demandas de clientes** com base em critérios de urgência, utilizando **técnicas avançadas de NLP (Processamento de Linguagem Natural)** e **modelagem supervisionada**.
+A HelpNow, startup especializada em soluções inteligentes para atendimento ao cliente, enfrenta diariamente um alto volume de chamados recebidos, o que gera atrasos no tempo de resposta e dificulta a priorização de demandas críticas. Para resolver esse problema, foi desenvolvido um pipeline completo de Machine Learning com foco na classificação automática de chamados por nível de urgência — Alta, Média ou Baixa — com base no conteúdo textual e em dados tabulares.
 
-O notebook foi estruturado em **20 células sequenciais**, cada uma responsável por uma etapa específica do ciclo de vida de um modelo de ML — desde a preparação do ambiente até a simulação de um **deployment em produção**.
+O projeto foi construído com uma abordagem de ponta a ponta, passando por geração e análise exploratória de dados, limpeza e pré-processamento de texto, vetorização com TF-IDF, engenharia de features, treinamento e avaliação de modelos supervisionados, e simulação de deployment. Foram testados diferentes algoritmos de aprendizado supervisionado, incluindo Random Forest, XGBoost, SVM, com o objetivo de identificar a melhor performance em termos de precisão e F1-Score ponderado.
+
+A solução foi desenvolvida em Google Colab, utilizando ferramentas modernas como Pandas, NumPy, Scikit-learn, TensorFlow/Keras e XGBoost TensorFlow/Keras, garantindo reprodutibilidade e escalabilidade. Além disso, foi implementada uma função de predição simulando o comportamento de uma API em produção, permitindo que novos chamados sejam classificados automaticamente em tempo real.
+
+Com isso, a HelpNow poderá reduzir o tempo médio de atendimento, priorizar casos críticos de forma automatizada e aumentar a eficiência operacional, melhorando significativamente a experiência do cliente.
 
 ---
 
