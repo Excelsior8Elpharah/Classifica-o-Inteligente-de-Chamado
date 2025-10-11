@@ -1,8 +1,3 @@
-Claro, Raphael! 👇
-Aqui está a **versão em Markdown** formatada e pronta para colar diretamente no seu `README.md` do GitHub:
-
----
-
 # 🧠 Pipeline Inteligente de Machine Learning para Classificação de Chamados
 
 Este projeto apresenta a construção completa de um **pipeline de Machine Learning** voltado para a **classificação automática de chamados de atendimento** com base em texto e dados numéricos.
@@ -98,22 +93,3 @@ Com ele, empresas podem transformar dados textuais e operacionais em **decisões
 * **NLP:** TF-IDF Vectorizer
 * **Métrica de Avaliação:** F1-Score Ponderado
 * **Simulação de Deployment:** API de predição com função `priorizar_chamado()`
-
----
-
-## 📈 Próximos Passos
-
-* [ ] Deploy em API Flask/FastAPI
-* [ ] Integração com Power BI / Streamlit
-* [ ] Treinamento com dados reais (quando disponível)
-* [ ] Monitoramento de performance em produção
-
----
-
-✍️ **Autor:** Raphael Henrique
-📅 **Ano:** 2025
-📧 **Contato:** [LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com)
-
----
-
-Quer que eu adicione um **badge de tecnologias** (Python, Scikit-learn, TensorFlow, etc.) no topo do README para deixá-lo mais profissional? (ex: ![Python](https://img.shields.io/badge/Python-3.10-blue)) 🛠️✨
